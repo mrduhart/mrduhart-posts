@@ -24,6 +24,7 @@ Disclaimer: series of posts about why I'm glad I accepted a the job I did not wa
     - Mega árbol de decisión de noche (no poder dormir)
     - Oposición madre
     - Acepté y moví fecha
+    - Google regresa (brief hint) - y también los weyes de la robótica
 
 3. La cultura corporativa no es un mito de admin
     - Alemanes
