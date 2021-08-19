@@ -1,45 +1,26 @@
-Hay que calentar las manos como con todo un poco de escritura para desentumirme el cerebro y las habilidades de escritor súper mega pro que es bien chido chingón la verdad esot estoy escribiendo pura estupidez y no sé qué poner aquí a veces dudo fervientemente ser en verdad un escritor, pero vaya, ya lo dijo aquel post: si escribes, no importa cuántos lectores tengas, no importa si has publicado algo, ni siquiera importa si tus obras son dignas del novel; eres un escritor
+<!-- Ser un equipo -->
+<!-- Liderazgo -->
+<!-- Paciencia y comunicación -->
+<!-- Mujeres (escribir más) -->
+<!-- Give, don’t ask -->
+<!-- Amigos -->
+<!-- Remate -->
 
-Así que sí. Escribo, luego soy escritor.
-
-¿Por qué aceptar ese trabajo que no te gusta?
-
-Ser un equipo
-Liderazgo
-Paciencia y comunicación
-Mujeres (escribir más)
-Give, don’t ask
-Amigos
-Remate
-
+# ¿Por qué aceptar ese trabajo que no te gusta?
 
 Porque puede resultar en más de lo que esperas.
 
-Porque aprenderás en el valor de trabajar en equipo. Aprenderás a
+<!-- Ser un equipo -->
 
-Porque aprenderás el valor del trabajo en equipo. Aprenderás a ser parte de un equipo sin importar las dificultades que atraviesen, y a pensar en los demás.
+Porque aprenderás a ser parte de un equipo y a valorar su diversidad.
 
-Porque aprenderás a ser parte de un equipo
+Aprenderás a reconocer y aceptar las diferencias entre cada uno, y descubrirás que se necesita que seamos diferentes para lograr un equipo fuerte. Que sin importar qué tan fuera de lugar te sientas, tú también eres una parte esencial de ese equipo.
 
-Porque aprenderás a  el valor del trabajo en equipo, de ser parte de un equipo sin importar l
+No tienen que ser tus mejores amigos, pero sabrás la importancia de avanzar juntos hacia un objetivo en común.
 
-Porque aprenderás el valor del trabajo en equipo. A reconocer las diferencias entre cada uno, a y aceptarlas y valorarlas por sus fortalezas
+Porque se falla juntos y se gana juntos.
 
-A reconocer las diferentes personalidades entre cada uno, y aceptarlas. Aún más, a valorarlas por la contribuci[on su contribución sus contrib
-
-A a valorar la diversidad
-
-A valorar la diversidad entre no las personas como
-
-A valorar la diversidad como fuente de fot fortaleza, y s
-
-A compartir un objetivo en común y saber que se falla juntos y se gana jutnos.
-
-No tienen porq  por qué car caerte bien, pero sabrás la importancia de trabajar juntos hacia un objec objetico en común. Porque se falla juntos y se gana juntos.
-
-Aorend Aop AoA
-
-Aprenderás a reconocer y aceptar las difernecias entre cada uno. Descubrirás que se necesita que seamos diferentes para lograr un equipo fuerte. , y que tú también t y que sin importar qué tan raro creas que eres, tú también eres una parte esencial de ese qupo equipo.
+<!-- Liderazgo -->
 
 Porque descubrirás en carne propia el significado de la palabra liderazgo.
 
@@ -57,6 +38,7 @@ del enorme peso que es llevar a un equipo hacia el éxito, y también el posible
 
 Porque lso consejos de un líder van más allá ed del espacio de trabajo. Los aplicarás a tu vida personal, y tal seguramente hasta los repitas a otros.
 
+<!-- Paciencia y comunicación -->
 
 Porque te volverás más empa empático. No es sensc sencillo comunicarse con personas de diferentes perspectivas
 
@@ -100,7 +82,13 @@ A q
 A dejar de interrumpir cuanod cuando otro cuando q alguién alguien más te intenta cont contarte algo.
 S
 
+<!-- Mujeres (escribir más) -->
+
 Porque descubrirás el valor de las mujeres en el trabajo, y en la sociedad entera. Verás que una sola mujer es capaz de hacer el trabajo de diez hombres, y casi todas las veces sin las tontas peleas de ego.
+
+<!-- Give, don’t ask -->
+
+Porque aprenderás la importancia de dar antes de recibir.
 
 Por último, aprenderás que vas a descubrir que no es lo mismo ser un buen estudiante que ser un buen empleado
 
@@ -110,13 +98,15 @@ No basta con pedir un ascenso, tienes que demostrar que estás listo para ese as
 
 Las cosas suceden cuando demuestras que estás listo.
 
+<!-- Amigos -->
+
 Si tienes suerte, viajarás. A lugares Viajarás a lugares desconocidos y distantes, y encontrarás más personas
 
 Harás contactos y hasta y quizxás hasta la cena te inviten.
 
 Por último, porque conocerás personas que se volverán amigos. Para toda la vida. Nunca sabes cuándo alguno de ellos te ayudará a cambiarte de casa o se irá de excursión por Europa contigo. Si tienes si suerte, tal vez hasta el amor descubras.
 
-$
+<!-- Remate -->
 
 Porque vale la pena. Porque hace varios meses fue my muy gratificante escuchar esas palabras de Stefan: sigue siendo tú, no cambies nada.
 
