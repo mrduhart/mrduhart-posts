@@ -1,3 +1,5 @@
+Ya'lready know how this goes. We start typing something to warm up the fingers and get into the zone and mood for writing. Ya tu sabe que esto se trata de agarrar tantito vuelo y aflojar las ideas y los sentimientos. Es acerca de inspirarse y comenzar a hablar, quizás, de cosas sin sentido, pero cosas que se sienten. A darle...
+
 <!-- Ser un equipo -->
 <!-- Liderazgo -->
 <!-- Paciencia y comunicación -->
@@ -22,21 +24,15 @@ Porque se falla juntos y se gana juntos.
 
 <!-- Liderazgo -->
 
-Porque descubrirás en carne propia el significado de la palabra liderazgo.
+Porque aprenderás a reconocer cómo la personalidad y el estilo de un líder se permea a través de su gente, como una cascada.
 
-Porque desv descbu descubrirás que ldie liderazs el i el liderazgo es más que sólo una palabra.
+Un líder sin una visión clara y con una comunicación pobre da pie a un equipo ansioso y frustrado. Así como un líder que escucha y entiende inspira a su gente. Un líder que sabe hacia dónde van y lo deja bien claro.
 
-El liderazno no
+Recibirás grandes consejos que irán más allá del espacio de trabajo. Los aplicarás a muchas otras áreas de tu vida. Muy seguramente hasta los repitas a otros.
 
-Porque descubrirás que ser líder es más que solamente un título. Es una forma de ser.
+Porque descubrirás en carne propia el significado de la palabra liderazgo, y conocerás la enorme responsabilidad que es llevar a un equipo hacia el éxito.
 
-La personalidad y el estilo de un líder se permea a través de la gente a la que gí guía. Si el l líder se estresa, seguramente el equpo vivi la pasará estresado. Si el líder es flojo, seguramente el equpo equipo se hará flojo. Y cuanod el l’[ider sea bueno, seguramente el equpo también será bueno.
-
-Lo vivirás en carne propia también, y te darás cuenta de la enorme responsabilidad que es
-
-del enorme peso que es llevar a un equipo hacia el éxito, y también el posible fracaso.
-
-Porque lso consejos de un líder van más allá ed del espacio de trabajo. Los aplicarás a tu vida personal, y tal seguramente hasta los repitas a otros.
+Ser líder se trata de más que solamente un título. Es una forma de ser.
 
 <!-- Paciencia y comunicación -->
 
@@ -121,4 +117,3 @@ Ahora agradezco el tiempo que pasé ahí. La gente, las experiencias y oportunid
 Ayer hablamos sobre mis motivaciones, no, mie agradecimientos a Conti por todo lo que me ha dejado por todo el aprendizaje, por todas las experiencias y los viajes, y por so bre todo, por todas las personas en mi vida, Susell, Paco, Moisés, hasta ese hijo de puta de Darío.
 
 Sin embargo, parece que pasé por alto algunos puntos interesantes, así que veamos lo que tengo por aquí para hablar hoy:
-
