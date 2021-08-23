@@ -1,4 +1,7 @@
-Ya'lready know how this goes. We start typing something to warm up the fingers and get into the zone and mood for writing. Ya tu sabe que esto se trata de agarrar tantito vuelo y aflojar las ideas y los sentimientos. Es acerca de inspirarse y comenzar a hablar, quizás, de cosas sin sentido, pero cosas que se sienten. A darle...
+Bla bla bla ala ala ala esto es más que sólo hablar. No son palabras sin sentido pa calentar los dedos, son ideas fluyendo desde mi mente pa que el espíritu pueda cubrir la hoja de pasiones. Qué te apasiona es la pregutna? Me apasiona la vida. El amor. La aventura. Me apasiona descubrir al mundo que me rodea a través de las miradas de otras personas. Me apasiona la música. Me apasiona sentir y reír. Hacer el amor. Me apasiona contar historias. Oh, sí, cuánto me apasiona contar historias.
+
+A darle...
+
 
 <!-- Ser un equipo -->
 <!-- Liderazgo -->
@@ -36,47 +39,45 @@ Ser líder se trata de más que solamente un título. Es una forma de ser.
 
 <!-- Paciencia y comunicación -->
 
-Porque te volverás más empa empático. No es sensc sencillo comunicarse con personas de diferentes perspectivas
+Porque aprenderás que para las matemáticas existen fórmulas y para las personas, paciencia.
 
-Porque te volverás más empático. Verás
+Aprenderás a escuchar y te volverás alguien más empático y, al mismo tiempo, aprenderás a persuadir a otros.
 
-Porque aprenderás a elegir tus batallas.
+Porque no es lo mismo explicarle algo a tu jefe que a tus compas, ¿o sí?
 
-y a comunicarte y a persud
+Todos venimos de un lugar diferente y por lo tanto vemos la vida desde diferentes ángulos también. Aprenderás entonces el arte de expresarte en el lenguaje de cada quien. No a todo el mundo le interesa la misma parte de la historia.
 
-Porque aprenderás que comunicarnos con otros es un arte, y es nuestra responsabilidad.
+Aprenderás a elegir tus batallas. Porque la gente no siempre aceptará tus ideas sólo porque tú creas que son las más fregonas. No puedes obligarlos a hacer lo que tú dices y ni siquiera a querer escucharte para empezar.
 
-Y que es nuestra responsabilidad volvernos artistas.
+Y por supuesto que no queremos andar por ahí siendo unos patanes que quieren obligar a otros a nada, ¿cierto? ;)
 
-Poq Porque aprenderás a exper expresar
+Así que aprenderás también a dejar ir tus propias ideas en favor de otras cuando eso sea lo correcto.
 
-Porque tendrás que aprender que no puedes obligar a otros a escucharte ni hacer como tú dices. No importa que hagas berrinche y te desconoectes de las la llamada.
+Otros siempre nos van a entender mal.
 
-Verás lo importante que es comunicarte con diferentes personas de diferentes maneras.
+Las personas siempre te malinterpretarán, pero el arte de la comunicación se trata de darse cuenta que lo que otros nos entienden es cier
 
-Persuadir para convencer de tus ideas, y también a saber cuándo tus ideas y también a saber cuándo tus ideas no son las mejores.
+La gente siempre te malinterpretará, pero el arte de la comunicación se trata de darse cuenta de que lo que la gente entiende es verdad. Es cierto para ellos.
 
-y dejarlas ir.
+Entonces es nuestro deber convertirnos en artistas. Los artistas de la comunicación.
 
+<!-- Cause you'll learn the art of communication.
 
-Porque aprenderás a p comunicarte con diferentes personas
+You will become a better listener and a more empathetic person, and at the same time you'll become better at persuading others.
 
-Tú eres responsable de asegurar que lo tu se tu mensaje Tú eres responsable de lo que otros
+It ain't never gonna be the same explaining something to your manager than to your peers.
 
-Tú no eres responsable de lo que otros hayan te hayan entendido, pero sí l Eres responsable de checar que
+People come from different backgrounds and perspectives, and so you will come to master the art of expressing in different ways to different persons. Not everybody is always interested in the same part of the story.
 
-Sio
+You'll learn to pick your battles.
 
-Si A le dice a B, lo que entienda B es
+Cause people will not always buy into your ideas only because you think they're great. You can't force them to do as you say nor even listen to you to begin with. And of course we don't want to go around being jerks trying to force anyone, right? ;)
 
-Porque
+You'll learn to let go of your own ideas in favor of others when it's the right thing to do.
 
-Si A le dice a B, la única verdad es la de B. así que aprenderás a escuchar. A quedarte callado y poner atención cuando alguien más te quiere decir algo.
+People will always misunderstand you, but the art of communication is all about the realization that what people understand is true. It is true for them.
 
-A q
-
-A dejar de interrumpir cuanod cuando otro cuando q alguién alguien más te intenta cont contarte algo.
-S
+It is then our duty to become artists. The artists of communication. -->
 
 <!-- Mujeres (escribir más) -->
 
