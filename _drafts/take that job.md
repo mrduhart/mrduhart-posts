@@ -3,15 +3,15 @@ Bla bla bla ala ala ala esto es más que sólo hablar. No son palabras sin senti
 A darle...
 
 
-<!-- Ser un equipo -->
-<!-- Liderazgo -->
-<!-- Paciencia y comunicación -->
-<!-- Mujeres (escribir más) -->
-<!-- Give, don’t ask -->
-<!-- Amigos -->
-<!-- Remate -->
+[x] Ser un equipo
+[x] Liderazgo
+[x] Paciencia y comunicación
+[ ] Mujeres (escribir más)
+[ ] Give, don’t ask
+[ ] Amigos
+[ ] Remate
 
-# ¿Por qué aceptar ese trabajo que no te gusta?
+# ¿Por qué deberías aceptar ese trabajo que no te gusta?
 
 Porque puede resultar en más de lo que esperas.
 
@@ -39,25 +39,19 @@ Ser líder se trata de más que solamente un título. Es una forma de ser.
 
 <!-- Paciencia y comunicación -->
 
-Porque aprenderás que para las matemáticas existen fórmulas y para las personas, paciencia.
+Porque aprenderás a escuchar y te volverás más empático y, al mismo tiempo, aprenderás a persuadir a otros.
 
-Aprenderás a escuchar y te volverás alguien más empático y, al mismo tiempo, aprenderás a persuadir a otros.
+No es lo mismo explicarle algo a tu jefe que a tus compas, ¿o sí?
 
-Porque no es lo mismo explicarle algo a tu jefe que a tus compas, ¿o sí?
+Todos venimos de un lugar diferente y por lo tanto vemos la vida también desde diferentes ángulos. Aprenderás entonces el arte de expresarte en el lenguaje de cada quien ya que no a todos les interesa la misma parte de la historia.
 
-Todos venimos de un lugar diferente y por lo tanto vemos la vida desde diferentes ángulos también. Aprenderás entonces el arte de expresarte en el lenguaje de cada quien. No a todo el mundo le interesa la misma parte de la historia.
+Aprenderás a elegir tus batallas. Porque la gente no siempre aceptará tus ideas sólo porque tú creas que son las más fregonas. No puedes obligar a nadie a hacer lo que tú dices y ni siquiera a querer escucharte para empezar.
 
-Aprenderás a elegir tus batallas. Porque la gente no siempre aceptará tus ideas sólo porque tú creas que son las más fregonas. No puedes obligarlos a hacer lo que tú dices y ni siquiera a querer escucharte para empezar.
-
-Y por supuesto que no queremos andar por ahí siendo unos patanes que quieren obligar a otros a nada, ¿cierto? ;)
+Y por supuesto que no queremos andar por ahí siendo unos patanes que quieran obligar a otros a escucharnos, ¿verdad? ;)
 
 Así que aprenderás también a dejar ir tus propias ideas en favor de otras cuando eso sea lo correcto.
 
-Otros siempre nos van a entender mal.
-
-Las personas siempre te malinterpretarán, pero el arte de la comunicación se trata de darse cuenta que lo que otros nos entienden es cier
-
-La gente siempre te malinterpretará, pero el arte de la comunicación se trata de darse cuenta de que lo que la gente entiende es verdad. Es cierto para ellos.
+Las otras personas siempre nos van a entender mal. Por eso el arte de la comunicación se trata de aceptar que la única verdad es lo que la otra persona te entendió. Es verdad para ellos, a fin de cuentas.
 
 Entonces es nuestro deber convertirnos en artistas. Los artistas de la comunicación.
 
@@ -71,9 +65,9 @@ People come from different backgrounds and perspectives, and so you will come to
 
 You'll learn to pick your battles.
 
-Cause people will not always buy into your ideas only because you think they're great. You can't force them to do as you say nor even listen to you to begin with. And of course we don't want to go around being jerks trying to force anyone, right? ;)
+Cause people won't buy into your ideas only because you think they're great. You can't force them to do as you say nor even listen to you to begin with. And of course we don't want to go around being jerks trying to force anyone, right? ;)
 
-You'll learn to let go of your own ideas in favor of others when it's the right thing to do.
+You'll therefore learn to let go of your own ideas in favor of others when it's the right thing to do.
 
 People will always misunderstand you, but the art of communication is all about the realization that what people understand is true. It is true for them.
 
