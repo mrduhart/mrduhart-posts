@@ -75,7 +75,71 @@ It is then our duty to become artists. The artists of communication. -->
 
 <!-- Mujeres (escribir más) -->
 
-Porque descubrirás el valor de las mujeres en el trabajo, y en la sociedad entera. Verás que una sola mujer es capaz de hacer el trabajo de diez hombres, y casi todas las veces sin las tontas peleas de ego.
+Porque descubrirás el valor de las mujeres en el trabajo, y en la sociedad entera.
+
+Verás que una sola mujer es capaz de hacer el trabajo de diez hombres, sin las tontas peleas de ego que muchos hombres seguido tenemos.
+
+5. You need more women in your workplace
+    - Ana
+    - Silvia
+    - Judith
+    - Gesina
+    - Brenda
+    - Cintli, Nahomy, Isemany
+    - Heather (follow up)
+    - vs ego hombres
+
+Organizan, coordinan y planean mejor que muchos hombres que he conocido.
+
+Se trata de reconocerlas por lo que valen y lo que aportan, y de ser realista. No de decir lo cliché y estereotipado, sino de hablar como si de cualquier otro colega se tratara. Qué cosas aprendí de las tías que nos rodearon en dos y más años en Conti?
+
+Ok, esto vuelve a ser complicado ya que se trata de escribir maravillas de mujeres. De muchas y ninguna. Se trata de hablar con amor sin estar enamorado.
+
+Porque aprenderás a reconocer a las mujeres
+
+Porque descubrirás el valor de las mujeres en el trabajo y la sociedad entera. Aprenderás a reconocerlas por su contribución y a ser realista.
+
+y a tener una visión realista más allá de los clichés estereotipados.
+
+Yes, they can also be ambitious,
+
+Yes, they can also get lazy.
+
+Yes, they can also make great leaders.
+
+Yes, they can also refuse to have children.
+
+Yes, they can also be commanding and strong.
+
+And, at the same time, they are often more nurturing and empathetic than many men I've known. And they also make for great deep conversation.
+
+Gesina: super smart, friendly and encouraging. With great leadership and organizational skills.
+
+Judith: meticulous, so freaking fucking productive. Can take on a lot of tasks and deliver. Also very sweet (replace) and understanding - great for conflict AVOIDANCE (even before resolution).
+
+Silvia: smart, meticulous and organized, firm and humble. Fun and a great listener.
+
+Brenda: ambitious, meticulous, hard-working, willing to take on any challenge no matter how much or little is she familiar with the task: a mí échenme lo que sea.
+
+Aprenderás a hablar de ellas y trabajar con ellas como si de cualquier otro colega se tratara.
+
+And now I will share with you what you'll learn from them in many years of working together:
+
+Son responsables y organizadas, se cuestionan dos veces todo lo que hacen y son más minuciosas que muchos hombres.
+
+En consecuencia, se aseguran de no cometer errores que pueden ser evitados desde temprano.
+
+Son firmes sin ser arbitrarias. Escuchan y toman en cuenta la opinión de todos, por lo que defienden el interés común del grupo más allá de su percepción individual.
+
+A la vez que se preocupan sin mostrarlo por convertirse en la líder de testing que critique el trabajo de todos y tenga que aguantar al developer escandaloso e idiota.
+
+They will set up team meetings to
+
+None of this is or should be exclusive to women, but my experience has shown me that they are far more willing to pay attention to all this and, as such, we should all learn from them and go on and do more of it.
+
+We should all strive to take care of the things that a lot of male professionals discard as non-important.
+
+That's why you need you more women in your workplace. To learn from their exemplary behaviors.
 
 <!-- Give, don’t ask -->
 
