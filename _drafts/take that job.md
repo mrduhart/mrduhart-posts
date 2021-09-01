@@ -75,55 +75,19 @@ It is then our duty to become artists. The artists of communication. -->
 
 <!-- Mujeres (escribir más) -->
 
-Porque descubrirás el valor de las mujeres en el trabajo, y en la sociedad entera.
+Porque aprenderás a reconocer a las mujeres por su valor en el entorno de trabajo y la sociedad entera, y te formarás una visión realista de sus contribuciones. Más allá de los clichés estereotipados.
 
-Verás que una sola mujer es capaz de hacer el trabajo de diez hombres, sin las tontas peleas de ego que muchos hombres seguido tenemos.
+Sí, también las hay con bastante inicitativa y ambición.
 
-5. You need more women in your workplace
-    - Ana
-    - Silvia
-    - Judith
-    - Gesina
-    - Brenda
-    - Cintli, Nahomy, Isemany
-    - Heather (follow up)
-    - vs ego hombres
+Sí, también pueden ser perezosas.
 
-Organizan, coordinan y planean mejor que muchos hombres que he conocido.
+Sí, también pueden ser fantásticas líderes.
 
-Se trata de reconocerlas por lo que valen y lo que aportan, y de ser realista. No de decir lo cliché y estereotipado, sino de hablar como si de cualquier otro colega se tratara. Qué cosas aprendí de las tías que nos rodearon en dos y más años en Conti?
+Sí, también puede no gustarles la idea de tener hijos.
 
-Ok, esto vuelve a ser complicado ya que se trata de escribir maravillas de mujeres. De muchas y ninguna. Se trata de hablar con amor sin estar enamorado.
+Sí, también pueden ser fuertes y dominantes.
 
-Porque aprenderás a reconocer a las mujeres
-
-Porque descubrirás el valor de las mujeres en el trabajo y la sociedad entera. Aprenderás a reconocerlas por su contribución y a ser realista.
-
-y a tener una visión realista más allá de los clichés estereotipados.
-
-Yes, they can also be ambitious,
-
-Yes, they can also get lazy.
-
-Yes, they can also make great leaders.
-
-Yes, they can also refuse to have children.
-
-Yes, they can also be commanding and strong.
-
-And, at the same time, they are often more nurturing and empathetic than many men I've known. And they also make for great deep conversation.
-
-Gesina: super smart, friendly and encouraging. With great leadership and organizational skills.
-
-Judith: meticulous, so freaking fucking productive. Can take on a lot of tasks and deliver. Also very sweet (replace) and understanding - great for conflict AVOIDANCE (even before resolution).
-
-Silvia: smart, meticulous and organized, firm and humble. Fun and a great listener.
-
-Brenda: ambitious, meticulous, hard-working, willing to take on any challenge no matter how much or little is she familiar with the task: a mí échenme lo que sea.
-
-Aprenderás a hablar de ellas y trabajar con ellas como si de cualquier otro colega se tratara.
-
-And now I will share with you what you'll learn from them in many years of working together:
+Verás que una sola mujer es capaz de hacer el trabajo de diez hombres y, al mismo tiempo, son a menudo más afectivas y empáticas que muchos de los tíos que he conocido.
 
 Son responsables y organizadas, se cuestionan dos veces todo lo que hacen y son más minuciosas que muchos hombres.
 
@@ -131,9 +95,7 @@ En consecuencia, se aseguran de no cometer errores que pueden ser evitados desde
 
 Son firmes sin ser arbitrarias. Escuchan y toman en cuenta la opinión de todos, por lo que defienden el interés común del grupo más allá de su percepción individual.
 
-A la vez que se preocupan sin mostrarlo por convertirse en la líder de testing que critique el trabajo de todos y tenga que aguantar al developer escandaloso e idiota.
-
-They will set up team meetings to
+They will set up team meetings to gather everyone around to have a good time and laugh together.
 
 None of this is or should be exclusive to women, but my experience has shown me that they are far more willing to pay attention to all this and, as such, we should all learn from them and go on and do more of it.
 
