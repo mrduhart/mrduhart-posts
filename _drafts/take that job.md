@@ -2,6 +2,14 @@ Bla bla bla ala ala ala esto es más que sólo hablar. No son palabras sin senti
 
 A darle...
 
+Por qué me está costando tanto trabajo escribir sobre las mujeres? Para comenzar, porque tenía la rpesi[ón de ter] terminar antes de la llamada de training. Pero seamos honestos, no me interesa, no le entiendo y no me gusta. Fin. Ahora, por qué me atoro al escribir de mujeres. Porque no tengo realmente ninguna opinión sólida. Me he apropiado una causa que no es mi causa ni es causa. Porque mi postura con respecto a estos temas es que todos merecemos de forma intrínseca respeto y admiración independientemente de nuestras condiciones individuales. Por otra parte, como dijeron las terapeutas éstas, tambi';en es importante remarcar las diferencias cuando el hecho de ignorarlas puede conducir a la omisi[ón de ] las necesidades particulares de un grupo o persona.
+
+As;i que... Por qué más muejres mujeres en el trabajo. Nunca trta trabajé de cerca con ninguna de ellas hasta ahora. En Conti, siempre me dieron ejemplo de dedicación y atención al detalle. Solían preocuparse más por no cometer errores y por evitar conflictos. Sin embargo, aún así eran bastante firmes en su postura e ideas.
+
+Ahora en Google, Heather me ha demostrado ser la mejor jefa que he tenido en mi carrera. Pone mucha atención al estado del equipo y me orienta sin ordenarme. Yi y Alice son bastante enfocadas y saben tanto como cualquier otro fulano del equipo.
+
+Fin.
+
 
 [x] Ser un equipo
 [x] Liderazgo
@@ -75,33 +83,19 @@ It is then our duty to become artists. The artists of communication. -->
 
 <!-- Mujeres (escribir más) -->
 
-Porque aprenderás a reconocer a las mujeres por su valor en el entorno de trabajo y la sociedad entera, y te formarás una visión realista de sus contribuciones. Más allá de los clichés estereotipados.
+Porque aprenderás a reconocer a las mujeres por su valor en el entorno de trabajo, y te formarás una visión más realista de sus contribuciones. Más allá de los estereotipos preconcebidos.
 
-Sí, también las hay con bastante inicitativa y ambición.
+Sí, hay mujeres con mucha iniciativa y ambición. Como también hay mujeres que holgazanean.
 
-Sí, también pueden ser perezosas.
+Hay mujeres que cuidan de los demás. Como también hay otras que no dan un pepino por lo que los demás hagan.
 
-Sí, también pueden ser fantásticas líderes.
+Hay fantásticas líderes, fuertes y determinadas. Y también hay tías que no soportan la idea de organizar a otros.
 
-Sí, también puede no gustarles la idea de tener hijos.
+Y sí, hay extraordinarias madres que constantemente tienen que equilibrar trabajo y familia. Como igual hay mujeres que anteponen otros intereses a la idea de un hijo.
 
-Sí, también pueden ser fuertes y dominantes.
+Encontrás mujeres capaces de sacar adelante a un equipo, la mayoría de las veces sin tontas peleas de ego. Mujeres que son firmes sin ser arbitrarias. A menudo, más afectivas y empáticas que muchos de los tíos que he conocido.
 
-Verás que una sola mujer es capaz de hacer el trabajo de diez hombres y, al mismo tiempo, son a menudo más afectivas y empáticas que muchos de los tíos que he conocido.
-
-Son responsables y organizadas, se cuestionan dos veces todo lo que hacen y son más minuciosas que muchos hombres.
-
-En consecuencia, se aseguran de no cometer errores que pueden ser evitados desde temprano.
-
-Son firmes sin ser arbitrarias. Escuchan y toman en cuenta la opinión de todos, por lo que defienden el interés común del grupo más allá de su percepción individual.
-
-They will set up team meetings to gather everyone around to have a good time and laugh together.
-
-None of this is or should be exclusive to women, but my experience has shown me that they are far more willing to pay attention to all this and, as such, we should all learn from them and go on and do more of it.
-
-We should all strive to take care of the things that a lot of male professionals discard as non-important.
-
-That's why you need you more women in your workplace. To learn from their exemplary behaviors.
+Es por todo esto que necesitas más mujeres en tu entorno de trabajo. Tal vez así aprendas algo de ellas.
 
 <!-- Give, don’t ask -->
 
