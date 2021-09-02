@@ -11,13 +11,13 @@ Ahora en Google, Heather me ha demostrado ser la mejor jefa que he tenido en mi 
 Fin.
 
 
-[x] Ser un equipo
-[x] Liderazgo
-[x] Paciencia y comunicación
-[ ] Mujeres (escribir más)
-[ ] Give, don’t ask
-[ ] Amigos
-[ ] Remate
+- [x] Ser un equipo
+- [x] Liderazgo
+- [x] Paciencia y comunicación
+- [x] Mujeres
+- [ ] Give, don’t ask
+- [ ] Amigos
+- [ ] Remate
 
 # ¿Por qué deberías aceptar ese trabajo que no te gusta?
 
