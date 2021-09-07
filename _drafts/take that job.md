@@ -15,8 +15,8 @@ Fin.
 - [x] Liderazgo
 - [x] Paciencia y comunicación
 - [x] Mujeres
-- [ ] Give, don’t ask
-- [ ] Amigos
+- [x] Give, don’t ask
+- [x] Amigos
 - [ ] Remate
 
 # ¿Por qué deberías aceptar ese trabajo que no te gusta?
@@ -81,7 +81,7 @@ People will always misunderstand you, but the art of communication is all about 
 
 It is then our duty to become artists. The artists of communication. -->
 
-<!-- Mujeres (escribir más) -->
+<!-- Mujeres -->
 
 Porque aprenderás a reconocer a las mujeres por su valor en el entorno de trabajo, y te formarás una visión más realista de sus contribuciones. Más allá de los estereotipos preconcebidos.
 
@@ -99,23 +99,21 @@ Es por todo esto que necesitas más mujeres en tu entorno de trabajo. Tal vez as
 
 <!-- Give, don’t ask -->
 
-Porque aprenderás la importancia de dar antes de recibir.
+Porque vas a descubrir que el éxito no te lo mereces; te lo ganas.
 
-Por último, aprenderás que vas a descubrir que no es lo mismo ser un buen estudiante que ser un buen empleado
+Vas a descubrir que tu pasado no importa para quien no te conoce. No importan tus viejos logros ni tus historias. Otros solamente pueden ver lo que ahora haces.
 
-Por último, vas a descubrir que el éxito no se merece, se gana. No importa tu pasado para quien no te conoce. Ni tus logros ni tus historias. Tampoco tus medallas o tus calificaciones.
+Descubrirás que no es lo mismo ser bueno como estudiante que ser bueno en tu carrera. A nadie le importa cuántas medallas y diplomas te has colgado.
 
-No basta con pedir un ascenso, tienes que demostrar que estás listo para ese ascenso, y siendo sinceros, nadie te la va a venir a poner fácil para que diciéndote qué hacer.
-
-Las cosas suceden cuando demuestras que estás listo.
+No basta con pedir. Primer tienes que dar.
 
 <!-- Amigos -->
 
-Si tienes suerte, viajarás. A lugares Viajarás a lugares desconocidos y distantes, y encontrarás más personas
+Porque conocerás a muchas personas interesantes. Personas que se volverán amigos para toda la vida.
 
-Harás contactos y hasta y quizxás hasta la cena te inviten.
+Si tienes suerte, viajarás. Viajarás a lugares desconocidos y distantes, y vivirás experiencias inolvidables junto a gente extraordinaria.
 
-Por último, porque conocerás personas que se volverán amigos. Para toda la vida. Nunca sabes cuándo alguno de ellos te ayudará a cambiarte de casa o se irá de excursión por Europa contigo. Si tienes si suerte, tal vez hasta el amor descubras.
+Después de todo, nunca sabes cuándo alguno de ellos te ayudará a cambiarte de casa o se irá de excursión por Europa contigo. En una de ésas, puede que hasta el amor encuentres.
 
 <!-- Remate -->
 
