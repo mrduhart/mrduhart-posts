@@ -20,6 +20,7 @@ Fin.
 - [ ] Remate
 
 # ¿Por qué deberías aceptar ese trabajo que no te gusta?
+# x razones por las que deberías aceptar ese trabajo que no te gusta
 
 Porque puede resultar en más de lo que esperas.
 
@@ -83,6 +84,8 @@ It is then our duty to become artists. The artists of communication. -->
 
 <!-- Mujeres -->
 
+Porque aprenderás a valorar más a las mujeres en el trabajo y la sociedad.
+
 Porque aprenderás a reconocer a las mujeres por su valor en el entorno de trabajo, y te formarás una visión más realista de sus contribuciones. Más allá de los estereotipos preconcebidos.
 
 Sí, hay mujeres con mucha iniciativa y ambición. Como también hay mujeres que holgazanean.
@@ -117,16 +120,36 @@ Después de todo, nunca sabes cuándo alguno de ellos te ayudará a cambiarte de
 
 <!-- Remate -->
 
+Porque puede resultar en mucho más de lo que esperas.
+
+Hace 3 años recibí una oferta de trabajo que no quería aceptar, luego de un arduo proceso de job hunting que duró varios meses.
+
+El paquete que Continental me ofrecía era sin duda atractivo. Sería una ciudad nueva, con buen salario y prestaciones, y en una muy seductora posición que daba la pinta para no aburrirme.
+
+Sin embargo, para cuando recibí la noticia, yo me encontraba a la mitad de otros procesos en su momento muy interesantes para mí. Tenía mucho miedo de precipitarme a dar el sí y acabar en un trabajo que no me gustara, todo el tiempo imaginándome cómo hubiese sido mi vida en otro sitio distinto.
+
+<!-- me ataría a quedarme ahí por much. -->
+
+Hoy miro atrás el tiempo que pasé ahí y no me arrepiento de mi decisión.
+
+El camino estuvo lleno de personas que se volvieron muy importantes para mí, de experiencias y oportunidades que me transformaron en incontables dimensiones.
+
+Este texto es entonces una breve recolección de mis aprendizajes a lo largo de ese camino y, con suerte, el comienzo de algo más. ;)
+
+<!-- This text is then a brief discussion of my learnings in that journey and, hopefully, the beginning of something more. ;) -->
+
+Ahora sólo me resta decir una cosa:
+
+Gracias, Conti.
+
+
+
+
+Ayer hablamos sobre mis motivaciones, no, mie agradecimientos a Conti por todo lo que me ha dejado por todo el aprendizaje, por todas las experiencias y los viajes, y por so bre todo, por todas las personas en mi vida, Susell, Paco, Moisés, hasta ese hijo de puta de Darío.
+
 Porque vale la pena. Porque hace varios meses fue my muy gratificante escuchar esas palabras de Stefan: sigue siendo tú, no cambies nada.
 
 (Keep being yourself and don’t try to be anyone else)
 
 Porque ese día mi esfuerzo fue reconodico reconocido, porque ese día sentí que mi trabajo tenía un impacto positivo en las personas a mi alrededor, y esas personas eran sólo 4.
 
-Hace 3 años no quería aceptar la oferta de Continental. Estaba a la mitad de otros procesos en su momento más interesantes para mí, y sentía que decir un sí precipitado me ataría a quedarme ahí por much.
-
-Ahora agradezco el tiempo que pasé ahí. La gente, las experiencias y oportunidades, y el crecimiento personal que me permitieron tener alcanzar.
-
-Ayer hablamos sobre mis motivaciones, no, mie agradecimientos a Conti por todo lo que me ha dejado por todo el aprendizaje, por todas las experiencias y los viajes, y por so bre todo, por todas las personas en mi vida, Susell, Paco, Moisés, hasta ese hijo de puta de Darío.
-
-Sin embargo, parece que pasé por alto algunos puntos interesantes, así que veamos lo que tengo por aquí para hablar hoy:
