@@ -17,7 +17,7 @@ Fin.
 - [x] Mujeres
 - [x] Give, don’t ask
 - [x] Amigos
-- [ ] Remate
+- [x] Remate
 
 # ¿Por qué deberías aceptar ese trabajo que no te gusta?
 # x razones por las que deberías aceptar ese trabajo que no te gusta
@@ -122,17 +122,15 @@ Después de todo, nunca sabes cuándo alguno de ellos te ayudará a cambiarte de
 
 Porque puede resultar en mucho más de lo que esperas.
 
-Hace 3 años recibí una oferta de trabajo que no quería aceptar, luego de un arduo proceso de job hunting que duró varios meses.
+Hace 3 años me rehusaba a aceptar la única oferta de trabajo que había recibido luego de buscar empleo por meses. Lo que Continental me ofrecía sin duda que era atractivo. Ciudad nueva, buen salario y prestaciones, y una muy seductora posición que daba la pinta para no aburrirme.
 
-El paquete que Continental me ofrecía era sin duda atractivo. Sería una ciudad nueva, con buen salario y prestaciones, y en una muy seductora posición que daba la pinta para no aburrirme.
+Sin embargo, para cuando recibí la noticia, me encontraba ya a la mitad de otras entrevistas en su momento muy interesantes para mí. Así que tenía miedo de precipitarme a dar un sí y entonces quedarme ahí, todo el tiempo deseando estar en otro sitio.
 
-Sin embargo, para cuando recibí la noticia, yo me encontraba a la mitad de otros procesos en su momento muy interesantes para mí. Tenía mucho miedo de precipitarme a dar el sí y acabar en un trabajo que no me gustara, todo el tiempo imaginándome cómo hubiese sido mi vida en otro sitio distinto.
+Tampoco te voy a mentir, pues así fue por un largo rato.
 
-<!-- me ataría a quedarme ahí por much. -->
+Es hasta hoy que miro atrás el tiempo que pasé ahí y puedo decir que no me arrepiento de mi decisión.
 
-Hoy miro atrás el tiempo que pasé ahí y no me arrepiento de mi decisión.
-
-El camino estuvo lleno de personas que se volvieron muy importantes para mí, de experiencias y oportunidades que me transformaron en incontables dimensiones.
+El camino estuvo lleno de personas que se volvieron muy importantes para mí, y de experiencias y oportunidades que me transformaron en incontables dimensiones.
 
 Este texto es entonces una breve recolección de mis aprendizajes a lo largo de ese camino y, con suerte, el comienzo de algo más. ;)
 
@@ -142,9 +140,6 @@ Ahora sólo me resta decir una cosa:
 
 Gracias, Conti.
 
-
-
-
 Ayer hablamos sobre mis motivaciones, no, mie agradecimientos a Conti por todo lo que me ha dejado por todo el aprendizaje, por todas las experiencias y los viajes, y por so bre todo, por todas las personas en mi vida, Susell, Paco, Moisés, hasta ese hijo de puta de Darío.
 
 Porque vale la pena. Porque hace varios meses fue my muy gratificante escuchar esas palabras de Stefan: sigue siendo tú, no cambies nada.
@@ -152,4 +147,3 @@ Porque vale la pena. Porque hace varios meses fue my muy gratificante escuchar e
 (Keep being yourself and don’t try to be anyone else)
 
 Porque ese día mi esfuerzo fue reconodico reconocido, porque ese día sentí que mi trabajo tenía un impacto positivo en las personas a mi alrededor, y esas personas eran sólo 4.
-
