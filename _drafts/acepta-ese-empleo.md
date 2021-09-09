@@ -1,24 +1,3 @@
-Bla bla bla ala ala ala esto es más que sólo hablar. No son palabras sin sentido pa calentar los dedos, son ideas fluyendo desde mi mente pa que el espíritu pueda cubrir la hoja de pasiones. Qué te apasiona es la pregutna? Me apasiona la vida. El amor. La aventura. Me apasiona descubrir al mundo que me rodea a través de las miradas de otras personas. Me apasiona la música. Me apasiona sentir y reír. Hacer el amor. Me apasiona contar historias. Oh, sí, cuánto me apasiona contar historias.
-
-A darle...
-
-Por qué me está costando tanto trabajo escribir sobre las mujeres? Para comenzar, porque tenía la rpesi[ón de ter] terminar antes de la llamada de training. Pero seamos honestos, no me interesa, no le entiendo y no me gusta. Fin. Ahora, por qué me atoro al escribir de mujeres. Porque no tengo realmente ninguna opinión sólida. Me he apropiado una causa que no es mi causa ni es causa. Porque mi postura con respecto a estos temas es que todos merecemos de forma intrínseca respeto y admiración independientemente de nuestras condiciones individuales. Por otra parte, como dijeron las terapeutas éstas, tambi';en es importante remarcar las diferencias cuando el hecho de ignorarlas puede conducir a la omisi[ón de ] las necesidades particulares de un grupo o persona.
-
-As;i que... Por qué más muejres mujeres en el trabajo. Nunca trta trabajé de cerca con ninguna de ellas hasta ahora. En Conti, siempre me dieron ejemplo de dedicación y atención al detalle. Solían preocuparse más por no cometer errores y por evitar conflictos. Sin embargo, aún así eran bastante firmes en su postura e ideas.
-
-Ahora en Google, Heather me ha demostrado ser la mejor jefa que he tenido en mi carrera. Pone mucha atención al estado del equipo y me orienta sin ordenarme. Yi y Alice son bastante enfocadas y saben tanto como cualquier otro fulano del equipo.
-
-Fin.
-
-
-- [x] Ser un equipo
-- [x] Liderazgo
-- [x] Paciencia y comunicación
-- [x] Mujeres
-- [x] Give, don’t ask
-- [x] Amigos
-- [x] Remate
-
 # ¿Por qué deberías aceptar ese trabajo que no te gusta?
 # x razones por las que deberías aceptar ese trabajo que no te gusta
 
@@ -63,24 +42,6 @@ Así que aprenderás también a dejar ir tus propias ideas en favor de otras cua
 Las otras personas siempre nos van a entender mal. Por eso el arte de la comunicación se trata de aceptar que la única verdad es lo que la otra persona te entendió. Es verdad para ellos, a fin de cuentas.
 
 Entonces es nuestro deber convertirnos en artistas. Los artistas de la comunicación.
-
-<!-- Cause you'll learn the art of communication.
-
-You will become a better listener and a more empathetic person, and at the same time you'll become better at persuading others.
-
-It ain't never gonna be the same explaining something to your manager than to your peers.
-
-People come from different backgrounds and perspectives, and so you will come to master the art of expressing in different ways to different persons. Not everybody is always interested in the same part of the story.
-
-You'll learn to pick your battles.
-
-Cause people won't buy into your ideas only because you think they're great. You can't force them to do as you say nor even listen to you to begin with. And of course we don't want to go around being jerks trying to force anyone, right? ;)
-
-You'll therefore learn to let go of your own ideas in favor of others when it's the right thing to do.
-
-People will always misunderstand you, but the art of communication is all about the realization that what people understand is true. It is true for them.
-
-It is then our duty to become artists. The artists of communication. -->
 
 <!-- Mujeres -->
 
@@ -134,16 +95,6 @@ El camino estuvo lleno de personas que se volvieron muy importantes para mí, y 
 
 Este texto es entonces una breve recolección de mis aprendizajes a lo largo de ese camino y, con suerte, el comienzo de algo más. ;)
 
-<!-- This text is then a brief discussion of my learnings in that journey and, hopefully, the beginning of something more. ;) -->
-
 Ahora sólo me resta decir una cosa:
 
 Gracias, Conti.
-
-Ayer hablamos sobre mis motivaciones, no, mie agradecimientos a Conti por todo lo que me ha dejado por todo el aprendizaje, por todas las experiencias y los viajes, y por so bre todo, por todas las personas en mi vida, Susell, Paco, Moisés, hasta ese hijo de puta de Darío.
-
-Porque vale la pena. Porque hace varios meses fue my muy gratificante escuchar esas palabras de Stefan: sigue siendo tú, no cambies nada.
-
-(Keep being yourself and don’t try to be anyone else)
-
-Porque ese día mi esfuerzo fue reconodico reconocido, porque ese día sentí que mi trabajo tenía un impacto positivo en las personas a mi alrededor, y esas personas eran sólo 4.
