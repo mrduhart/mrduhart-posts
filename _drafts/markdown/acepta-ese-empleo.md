@@ -1,6 +1,7 @@
 # ¿Por qué deberías aceptar ese trabajo que no te gusta?
 
 <!-- Intro -->
+Éstas son mis siete razones por las que deberías aceptar ese trabajo que no te gusta:
 
 <!-- Equipo -->
 ## 1. Porque aprenderás que se falla juntos y se gana juntos
@@ -30,24 +31,18 @@ Entenderás también que es inevitable ser malinterpreteados, y que por eso el a
 Entonces aprenderás que es nuestro deber volvernos artistas. Artistas de la comunicación.
 
 <!-- Mujeres -->
-## 4. Porque vas a valorar más a las mujeres en el trabajo y en todas partes
+## 4. Porque vas a descubrir que se necesitan más mujeres en el trabajo
 
-Porque aprenderás a reconocer a las mujeres por su valor en el entorno de trabajo, y te formarás una visión más realista de sus contribuciones. Más allá de los estereotipos preconcebidos.
+Comenzarás a reconocerlas por su valor en el entorno de trabajo y en todas partes, y te formarás una imagen más realista sobre ellas. Una imagen alejada de los estereotipos que muchos tenemos sobre sus roles.
 
-Sí, hay mujeres con mucha iniciativa y ambición. Como también hay mujeres que holgazanean.
+Encontrarás fantásticas líderes, con y sin el título. Mujeres con iniciativa y visión, capaces de organizar equipos enteros y resolver problemas difíciles.
 
-Hay mujeres que cuidan de los demás. Como también hay otras que no dan un pepino por lo que los demás hagan.
+También encontrarás mujeres que cuidan de los demás, que son firmes sin ser arbitrarias. A menudo más agradables y empáticas que muchos de los tíos que me he topado.
 
-Hay fantásticas líderes, fuertes y determinadas. Y también hay tías que no soportan la idea de organizar a otros.
-
-Y sí, hay extraordinarias madres que constantemente tienen que equilibrar trabajo y familia. Como igual hay mujeres que anteponen otros intereses a la idea de un hijo.
-
-Encontrás mujeres capaces de sacar adelante a un equipo, la mayoría de las veces sin tontas peleas de ego. Mujeres que son firmes sin ser arbitrarias. A menudo, más afectivas y empáticas que muchos de los tíos que he conocido.
-
-Es por todo esto que necesitas más mujeres en tu entorno de trabajo. Tal vez así aprendas algo de ellas.
+Aprenderás que es por eso que necesitamos más mujeres en el trabajo. Entonces quizás aprendamos algo de ellas.
 
 <!-- Give, don’t ask -->
-## 5. Porque vas a descubrir que el éxito no te lo mereces; te lo ganas
+## 5. Porque vas a descubrir que el éxito no te lo mereces. Te lo ganas
 
 Vas a descubrir que tu pasado no importa para quien no te conoce. No importan tus viejos logros ni tus historias. Otros solamente pueden ver lo que ahora haces.
 
@@ -79,6 +74,4 @@ El camino estuvo lleno de personas que se volvieron muy importantes para mí, y 
 
 Este texto es entonces una breve recolección de mis aprendizajes a lo largo de ese camino y, con suerte, el comienzo de algo más. ;)
 
-Ahora sólo me resta decir una cosa:
-
-Gracias, Conti.
+Ahora sólo me resta decir una cosa: Gracias, Conti.
