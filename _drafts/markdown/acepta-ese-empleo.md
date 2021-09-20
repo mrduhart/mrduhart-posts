@@ -1,14 +1,18 @@
 # ¿Por qué deberías aceptar ese trabajo que no te gusta?
 
 <!-- Intro -->
-Éstas son mis siete razones por las que deberías aceptar ese trabajo que no te gusta:
+En el 2018 recibí una oferta de empleo que no quería aceptar. La única entre más de 50 CVs enviados y tan sólo 10 entrevistas.
+
+Después de darle muchas vueltas, me decidí a aceptarla y ahora me pregunto: ¿Por qué deberías aceptar ese trabajo que no te gusta?
+
+Éstas son mis siete respuestas:
 
 <!-- Equipo -->
 ## 1. Porque aprenderás que se falla juntos y se gana juntos
 
 Aprenderás a ser parte de un equipo y a valorar su diversidad.
 
-Comenzarás a reconocer y aceptar las diferencias entre cada miembro y descubrirás que esas diferencias son las que hacen fuerte al equipo. Descubrirás además que, sin importar qué tan fuera de lugar te sientas, tú también eres una parte esencial del equipo.
+Comenzarás a reconocer y aceptar las diferencias entre cada miembro y descubrirás que esas diferencias son las que hacen fuerte al equipo. Descubrirás que sin importar qué tan fuera de lugar te sientas, tú también eres una parte esencial del equipo.
 
 No tienen que ser tus mejores amigos, pero sabrás la importancia de avanzar juntos hacia un objetivo en común. Porque se falla juntos y se gana juntos.
 
@@ -42,18 +46,16 @@ También encontrarás mujeres que cuidan de los demás, que son firmes sin ser a
 Aprenderás que es por eso que necesitamos más mujeres en el trabajo. Entonces quizás aprendamos algo de ellas.
 
 <!-- Give, don’t ask -->
-## 5. Porque vas a descubrir que el éxito no te lo mereces. Te lo ganas
+## 5. Porque aprenderás que el éxito no se merece. Te lo ganas
 
-Vas a descubrir que tu pasado no importa para quien no te conoce. No importan tus viejos logros ni tus historias. Otros solamente pueden ver lo que ahora haces.
+Vas a aprender que la gente no se fija en tu pasado. No les importan tus logros ni tus historias de éxito y, mucho menos, a cuántos fulanos importantes hayas conocido en tu vida. Los demás solamente vemos lo que ahora haces. Tus acciones y palabras hoy son las que te definen mañana.
 
-Descubrirás que no es lo mismo ser bueno como estudiante que ser bueno en tu carrera. A nadie le importa cuántas medallas y diplomas te has colgado.
-
-No basta con pedir. Primer tienes que dar.
+Descubrirás que no es lo mismo ser bueno como estudiante que ser bueno en tu carrera. Sin importar cuántas medallas de oro y diplomas te has colgado, no basta con pedir. Primero tienes que dar.
 
 <!-- Amigos -->
 ## 6. Porque conocerás muchas nuevas personas. Personas que se volverán amigos para toda la vida
 
-Porque conocerás a muchas personas interesantes. Personas que se volverán amigos para toda la vida.
+Harás amigos. Muchos. Amigos de paso, amigos de pasillo y amigos para toda la vida.
 
 Si tienes suerte, viajarás. Viajarás a lugares desconocidos y distantes, y vivirás experiencias inolvidables junto a gente extraordinaria.
 
@@ -62,16 +64,14 @@ Después de todo, nunca sabes cuándo alguno de ellos te ayudará a cambiarte de
 <!-- Remate -->
 ## 7. Porque puede resultar en mucho más de lo que esperas
 
-Hace 3 años me rehusaba a aceptar la única oferta de trabajo que había recibido luego de buscar empleo por meses. Lo que Continental me ofrecía sin duda que era atractivo. Ciudad nueva, buen salario y prestaciones, y una muy seductora posición que daba la pinta para no aburrirme.
+Hace 3 años quería decir que no a mi única oferta de trabajo después de meses buscando empleo. La oferta de [Continental](https://www.continental-jobs.com/) era sin duda atractiva. Me moverían a una ciudad nueva, con muy buena paga y prestaciones, y en una muy seductora posición de _investigación y desarrollo_.
 
-Sin embargo, para cuando recibí la noticia, me encontraba ya a la mitad de otras entrevistas en su momento muy interesantes para mí. Así que tenía miedo de precipitarme a dar un sí y entonces quedarme ahí, todo el tiempo deseando estar en otro sitio.
+Sin embargo, cuando yo recibí la noticia, ya me encontraba a la mitad de otras entrevistas. Éstas eran muy interesantes para mí en ese momento, así que tenía miedo de precipitarme a dar un sí. Tenía miedo de quedarme ahí, todo el tiempo deseando estar en otra parte.
 
-Tampoco te voy a mentir, pues así fue por un largo rato.
-
-Es hasta hoy que miro atrás el tiempo que pasé ahí y puedo decir que no me arrepiento de mi decisión.
+Y no te voy a mentir, pues de hecho así fue. Luego de aceptar, seguí deseando estar en otra parte por un buen rato. Es hasta hoy que miro atrás el tiempo que pasé ahí y puedo decir que no me arrepiento de mi decisión.
 
 El camino estuvo lleno de personas que se volvieron muy importantes para mí, y de experiencias y oportunidades que me transformaron en incontables dimensiones.
 
-Este texto es entonces una breve recolección de mis aprendizajes a lo largo de ese camino y, con suerte, el comienzo de algo más. ;)
+Este texto es entonces una breve recolección de mis aprendizajes a lo largo de ese camino y, con ~~suerte~~ esfuerzo, el comienzo de algo más (😉).
 
-Ahora sólo me resta decir una cosa: Gracias, Conti.
+Ahora sólo me resta decir una cosa: **Gracias, Conti**.

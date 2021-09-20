@@ -1,0 +1,1595 @@
+# --------------------------------------------------------------------------------------------------
+Others
+# --------------------------------------------------------------------------------------------------
+Advanced Engineering Machine Learning Algorithm Engineer (ADAS)
+Continental
+Querétaro
+
+The Machine Learning Engineer is a member of the Advanced Engineering team in Advanced Driver Assistance Systems (ADAS) and will be responsible for the execution of machine learning based innovation projects. Innovation projects commonly involve the design, implementation, and validation of preproduction ADAS technologies to realize meaningful evaluations and demonstrations supporting production product planning.
+The Machine Learning Engineer will develop solutions from real world data and apply tools to produce simulated data for the purposes of exhaustive validation and resource optimization. Advanced Engineering team members are expected to be continuously learning and improving their skill set in software engineering, embedded systems, control and estimation, radar / LIDAR data processing, computer vision, vehicle dynamics, environment modeling, and ADAS functions.
+It is the mission of the Advanced Engineering team to challenge what can be done with current and future sensor suites and effectively demonstrate advanced capabilities in simulation, software, and hardware. He/she is driven by a desire to achieve new functions and levels of performance by applying existing expertise to new domains.
+
+Core Responsibilities:
+- Execute advanced development projects in the area of machine learning.
+- Provide additional development support in one or more areas critical to ADAS:
+    - Software architecture, programming, and networking.
+    - General controls and sensors algorithms development
+    - Computer Vision
+    - Radar data processing
+    - LIDAR data processing
+    - ADAS function development
+    - Vehicle dynamics
+- Configure and troubleshoot prototype ADAS vision systems.
+
+Additional Responsibilities:
+- Professionally present technology demonstrations to internal stakeholders and external customers.
+- Document and patent new technologies.
+- Assist in the coordination of innovation activities.
+
+Basic Qualifications:
+- Bachelor of Science degree in Engineering or Sciences
+- Motivation and ability to master several software and algorithm development domains (such as machine learning, computer vision, data visualization and embedded programming)
+- Good communication, team and presentation skills and be willing to work in distributed global team environment
+- Good documentation skills
+- Willing to travel (10% of the time) to support demonstrations, knowledge transfer, and global projects.
+
+Preferred Qualifications:
+- Previous professional experience (2+ years) in machine learning applications.
+- MS or PhD in the area of machine learning
+- Advanced knowledge of ADAS radar, camera, and/or LIDAR.
+- Existing expertise in software engineering, controls and estimation, computer vision, vehicle dynamics, and related topics.
+- Working knowledge of automotive networks
+
+# --------------------------------------------------------------------------------------------------
+Automated Vehicle Research Engineer (AI)
+Lumenance
+Detroit, Estados Unidos de América
+90,001 - 100,000 Pesos (60k USD al año)
+
+Lumenance is seeking qualified Automated Vehicle Research Engineers from the United States, Canada, or Mexico to join our team. We request anyone who feels they fulfill the following requirements to submit their resume with a cover letter. We are looking for engineers with development experience in deep learning, artificial intelligence or machine learning. The candidates must be capable of contributing to a fast-paced, project development environment for automobile design and manufacturing.
+
+This position is in Michigan, USA. United States citizens and green card holders are requested to apply. If you are from Canada or Mexico, Lumenance will assist in the acquisition of the necessary US work visas. This is a contract engineering position.
+
+Duties
+- Research and apply new technologies for connected and automated vehicles.
+- Develop state of the art deep learning techniques for automated vehicle research.
+- Write and implement software to support on-going automated vehicle research and development.
+- Initiate and lead efforts in data analytics and machine learning research.
+- Hands-on integration of robotics software technology into vehicle build.
+- Join in internal/external brainstorming meetings to generate new application ideas.
+- Collaborate with industry consortiums, universities, or internal departments.
+- Publish on-going novel research results and create patentable ideas.
+
+Minimum Qualifications / Experience
+- Master’s degree with emphasis on robotics/machine learning/machine vision/Sensor-Fusion.
+- Proficient programing in C++ and Python.
+- Experience building and managing software in Linux (CMake, git, GNU tools, etc.) ROS experience.
+- Experience in DNNs, CNNs among other machine learning methods.
+- Hands-on experience on interfacing with vision sensors, GPS and IMUs.
+
+Preferred Experience / Knowledge
+- Ph.D. with emphasis on robotics/machine learning/machine vision/Sensor-Fusion.
+- Experience in systems integration and vehicle testing.
+- Experience with one of the following libraries: OpenCV, PCL, Tensorflow, Caffe, OMPL, etc.
+- General engineering experimental and analytical skills using common tools.
+
+Other Characteristics
+- Have a passion to create and try new ideas.
+- Accept some travel and long hours on occasion.
+- Does not mind working on new and diverse things as opposed to developing perfection in one area.
+- Effective communication skills, both verbal and written.
+- Work cooperatively with others.
+- Eager to quickly learn by searching and reading, by example, and by trial and error.
+- Take higher-level requests and ideas to completion independently.
+- Demonstrate inventiveness.
+- Comfortable working in a multicultural environment.
+- Accepts some travel and long hours on occasion.
+- Does not mind working on new and diverse things as opposed to developing perfection in one area.
+
+# --------------------------------------------------------------------------------------------------
+ML Prototyping Architect
+London, UK
+Amazon
+
+DESCRIPCIÓN
+Amazon Web Services (AWS) EMEA is looking for an experienced Data Scientist/ Machine Learning specialist, who will take the role of a prototype developer, working with AWS customers to support designing machine learning and deep learning solutions that leverage AWS services. The Machine Learning Prototype Architect will be part of EMEA Prototyping Labs and will work in close partnership with the Sales and Business Development teams to enable large-scale customer use cases and drive the adoption AWS Advanced Analytics services. The ML Prototype Architect will engage directly with the customers’ development team, understand their specific business and technology challenges in the area of data and advance analytics, support hands-on to build a first machine learning/ deep learning prototypes and transfer knowledge on specific AWS services.
+Prototyping engagements will usually require to travel to Customers across EMEA and work 2-3 weeks on-site in a temporary Lab-like environment.
+
+The Machine Learning Prototype Developer will also provide field enablement support for the wider Prototyping Labs Competencies, e.g. IoT, Virtual Reality/ Augmented Reality, Voice and Image Recognition to integrate AWS Deep Learning and Machine Learning features into customer prototypes.
+
+REQUISITOS BÁSICOS
+· Strong understanding and experience in the field of AI, Machine Learning, Deep Learning and related technologies.
+· Deep experience developing AI models in real-world environments and integrating AI/ML and other AWS services into large-scale production applications.
+· Data science background and experience manipulating/transforming data, model selection, model training, cross-validation and deployment at scale.
+
+REQUISITOS DESEADOS
+· Data science background and experience manipulating/transforming data, model selection, model training, cross-validation and deployment at scale.
+· Experience with Machine and Deep Learning toolkits such as MXNet, TensorFlow, Caffe and Torch.
+· Experience with statistical/mathematical software (e.g. R, Weka, SAS, Matlab)
+· Proficiency with programming languages such as Python, Scala and R
+· Experience with NoSQL is strong plus
+· Experience with AWS services related to AI/ML highly desirable, particularly Amazon EMR, AWS Lambda, Machine Learning, AWS IoT & Greengrass, Amazon DynamoDB, Amazon S3
+
+# --------------------------------------------------------------------------------------------------
+Machine Learning Engineer
+Harnham
+Madrid, ES
+50,000- 55,000 € / año
+
+This is a fantastic opportunity to join a fast growing eCommerce business. With a strong global presence and offices in Germany, France and the UK they're now building a solid team in their shiny new Madrid offices.
+
+As a Machine Learning Engineer You Will Need:
+- A proven background in production-level Machine Learning
+- Strong programming experience in Python
+- A familiarity with engineering best-practice
+- A Ph.D. or MSc in Computer Science, Artificial Intelligence, Machine Learning or a related field.
+- Strong communication skills
+
+# --------------------------------------------------------------------------------------------------
+Algorithmic C++ Developer (h/m) - Remote
+Page Personnel
+Barcelona, ES
+
+As an Algorithmic C++ Developer you will be part of a newly founded team with high technical skills in robotics and optimization algorithms that makes the daily work dynamic. The team is based of multidisciplinary engineers located worldwide (they are working around the world), that's why we offer Home Office. We believe in an independent and self-sufficient work mentality able to work with Agile methodology and contribute with ideas to the team as well. In our offices near Barcelona, we also have a cool robots room where you can apply the reality of your developments. In this new project you will work in a cutting edge environment building from scratch an innovative platform to automate and parameterize robots systems. It requires the ability to quickly prototype creative ideas and adapt them for their implementation. We are looking for an out of the box mind and a "can do" attitude with passion for building cool "stuff" and face technical challenges in the robotics area.
+
+Responsibilities:
+- Develop and integrate algorithms for robot path planning, collision avoidance and inverse kinematics.
+- Be a key team player eager to collaborate with the engineering team to implement various optimization algorithms.
+- Take responsibilities for your design and actively propose innovative ideas.
+- Define the process interactions between different physics engines.
+- Implement optimization and planning algorithms for robotics applications.
+
+The Successful Applicant
+- Solid experience with C++ and C#
+- Knowledge of spatial mathematics and numeric algorithmic skills
+- Experience with multibody mechanics and inverse kinematics
+- Experience with optimization algorithms (LM, Newton-Raphson, etc.)
+- Experience with path planning algorithms (Linear programming, A-Start, Gradient Maps, etc.)
+- Experience with spatial partitioning algorithms (Quadtrees, Octrees, BD Trees)
+- Experience with collision detections algorithms
+- Agile Methodologies (Scrum)
+
+What's On Offer
+- Remote and Flexible working hours
+- Work life balance
+- Work in an international team
+- Agile Methodology
+- Flexibility
+- Be part of a Technical challenge
+- Opportunity to travel occasionally
+
+# --------------------------------------------------------------------------------------------------
+Robotics Engineer Intern
+Barcelona, ES
+Amazon
+
+Amazon Robotics, a wholly owned subsidiary of Amazon.com, empowers a smarter, faster, more consistent customer experience through automation.
+
+Are you inspired by invention? Is problem solving through teamwork in your DNA? Do you like the idea of seeing how your work impacts the bigger picture? Answer yes to any of these and you’ll fit right in here at Amazon Robotics. We are a smart team of doers that work passionately to apply cutting edge advances in robotics and software to solve real-world challenges that will transform our customers’ experiences in ways we can’t even image yet. We invent new improvements every day. We are Amazon Robotics and we will give you the tools and support you need to invent with us in ways that are rewarding, fulfilling and fun.
+
+Amazon Robotics is seeking a talented and motivated software engineering student to assist with development of internal and external tools for monitoring associates and robot performance. The ideal candidate will have had experience with and interest in database development, web applications, and data visualization, possess good communication skills, and enjoy problem solving both independently and in team settings. This position reports directly to the International Launch and Performance team.
+
+The Computer Engineer/Computer Science Co-op will be responsible for:
+- Assisting in development of web based tools for analyzing robot performance data such as wireless signal strength and failure analysis
+- Assisting in the architecture, design, and implementation of databases to store trending data for analysis
+- Designing visual games for testing associate performance
+- Computer vision problems including 2D and 3D cameras, laser scanners, and MoCap systems
+- Having an understanding of and interest in the technical principles, theories, and concepts in software development
+- Assisting an interdisciplinary team of engineers in the execution of product designs from concept to production including design, prototyping, validation, testing, and certification
+
+The Intern must have the following qualifications:
+- Currently working towards a BS or MS in Computer Engineering or Computer Science (or similar field)
+- Classroom and project experience in programming, firmware, and/or system level design
+- Prior internship or co-op experience in a similar field
+- Experience in the design and debugging of large scale software applications
+- Working knowledge and experience programming in languages such as Java, PHP, Python, C, MySQL, etc.
+- Experience implementing third party APIs
+- Commitment to rigorous testing practices
+- Excellent written and oral communication skills
+
+# --------------------------------------------------------------------------------------------------
+Date: 09/07/18
+# --------------------------------------------------------------------------------------------------
+Algorithm Development Engineer (Automated Driving)
+Continental
+Querétaro, Qro.
+
+At Continental, the Advanced Engineering group is responsible for developing the next generation of technology that will enable us to have a clean and safe driving environment. We are a small and agile team of developers driven by our love for technology. Changing the world one car at a time is our passion.
+The scope of work will span much of Continental’s safety systems architecture, including algorithm development for sensing, kinematic and dynamic control functions, and actuator control strategies. This is an research and integration focused position.
+
+Core Responsibilities:
+- Perform research, develop and implement algorithms related to Automated Driving
+- Perform simulation of developed software in virtual environment
+- Deliver innovative, flexible, integrated solutions to meet Automated Driving needs e.g. Machine Learning
+
+Additional Responsibilities:
+- Engage in know how transfer within the organization.
+- Actively pursue new inventions and patent opportunities to protect Continental’s developments and ideas.
+- Support testing, development and calibration in vehicle environment
+
+Necessary requirements:
+- Bachelor's Degree in a Engineering related discipline, Computer Science/Mathematics/Electrical
+- Expertise with C/C++, Matlab/Simulink and embedded control systems
+- Experience in Control Systems Theory
+- Fluency in the English language (written and verbal)
+- Excellent communication skills
+- Capable of traveling both domestically and internationally
+
+Preferred Qualifications:
+- Master's Degree in Mechanical/Electrical/Controls Engineering
+- Experience with Localization Techniques or Machine Learning or Neural Networks
+- Expertise in development of active / passive safety systems
+- Exposure/experience in the automotive research and development field
+- German language skills
+
+# --------------------------------------------------------------------------------------------------
+Perception Engineer (Computer Vision)
+Carbon robotics
+GUADALAJARA
+
+What You’ll Be Doing
+
+We're looking for a lead computer vision engineer (visioneer? your call) to translate pixels to millimeters and help our robots understand the world around them. You’ll be building the architecture that lets our robots recognize features and geometry, measure distances, react to obstructions, and work side by side with people in industrial environments. You’ll collaborate frequently with the controls and motion planning teams to integrate visual feedback into our motion routines, and work with our mechatronics team to design a highly accurate camera system.
+
+Nuts & Bolts
+- Own development of a highly accurate feature recognition, 3d reconstruction, and optical inspection pipeline
+- Work closely with controls and application engineers to expose data and integrate vision system into our robotic platform
+- Collaborate with hardware team on the design of vision sensor package and related systems
+
+Must-Haves
+- BS in Computer Science or related field, or equivalent practical experience
+- Experience implementing geometry-based methods in computer vision
+- Experience with robotics, ROS, Gazebo, OpenCV and/or PCL
+- Fluency in C / C++
+- Excellent written and spoken English
+
+Even Better
+- MS or PhD in Computer Vision, Robotics, or related field
+- Experience working with GPUs, particularly on embedded hardware
+- Experience with machine learning and classification, exposure to deep learning frameworks
+- Understanding of optics, lens design, multi-element lenses and lens selection
+
+Perks
+- Extreme growth in an environment that demands the best work of your career
+- Once-in-a-lifetime chance to improve the lives of millions of people
+
+# --------------------------------------------------------------------------------------------------
+CONSULTOR DATA SCIENCE
+Management Solutions
+Madrid y alrededores, España
+
+Funciones:
+
+- Tratamiento estadístico de datos (data mining)
+- Modelización predictiva mediante técnicas de machine learning y data science
+- Modelización de eventos temporales (series temporales, modelos ARIMA)
+- Desarrollo de modelos de simulación (Monte Carlo)
+- Revisión y validación de modelos de rating y scoring, RAROC y parámetros de riesgo
+- Apoyo matemático al negocio: desarrollo de algoritmos, estadística y probabilidad
+- Proyectos de I+D
+
+Requisitos:
+- Recién titulados o estudiantes de último curso de Matemáticas, Físicas, Estadística, Econometría, Ingeniería u otros estudios con fuerte componente cuantitativo.
+- Valorable conocimiento de técnicas de modelización (logit, GLM, series temporales, árboles de decisión, clustering, etc.), lenguajes de programación estadística (SAS, R, Python, Matlab, etc.) y herramientas y plataformas de big data (Hadoop, MongoDB, Cassandra, Pig, Hive, etc.)
+- Valorable la realización de estudios específicos de postgrado, en especial Data Science, Finanzas Cuantitativas o similar
+- Sólida trayectoria académica.
+- Dinamismo, madurez, responsabilidad y capacidad de trabajo.
+- Nivel de inglés avanzado. Francés muy valorable (así como otros idiomas).
+- Manejo avanzado de herramientas informáticas.
+- Alta capacidad de aprendizaje.
+- Facilidad de integración en equipos multidisciplinares.
+
+Te ofrecemos formar parte del mayor y más sólido equipo de metodólogos y data scientists del sector:
+-Trabajando en los proyectos de consultoría más relevantes del sector,
+- Para las mayores compañías, líderes en sus respectivos mercados,
+- Junto al top management empresarial, ante sus retos nacionales e internacionales,
+- Junto a un extraordinario equipo de profesionales, cuyos valores y cultura corporativa son una referencia en el sector.
+
+Plan de formación continuo
+- 600 horas de formación durante los dos primeros años
+- Cursos de conocimientos, cursos externos especializados, de habilidades y de idiomas
+- Todos los incorporados a nuestra Firma cursan el Máster en Consultoría de Negocio Management Solutions – ICADE Business School, con especialización en Big data y Data Science para perfiles técnicos y metodológicos.
+
+Plan de carrera claramente definido
+- Promoción interna basada en tu desempeño y potencial
+- Gestión basada en el partnership, ofreciendo a cada profesional la meta de formar parte del colectivo de socios
+
+Actividades complementarias
+- Universidad: mantenemos una estrecha relación con las universidades más prestigiosas a nivel mundial
+- Acción Social: organizamos más de 30 actividades solidarias cada año
+- Club deportivo: organizamos campeonatos internos
+
+# --------------------------------------------------------------------------------------------------
+Date: 16/07/18
+# --------------------------------------------------------------------------------------------------
+Software Engineer, Research and Machine Intelligence
+Google
+Software Engineering
+Paris, France
+
+Machine Intelligence is a high impact team within Knowledge that’s building the next generation of intelligence and language understanding for all Google products. To achieve this, we’re working on confidential projects that utilize the latest techniques in Artificial Intelligence, Machine Learning (including Deep Learning approaches like Google Brain) and Natural Language Processing. We impact products across Google including Search, Maps and Google Now.
+
+We’ve already been joined by some of the best and the brightest minds in AI, and we’re looking for talented software engineers that have applied experience in the fields of Machine Learning and Artificial Intelligence to join our team.
+
+As a Software Engineer in Machine Intelligence, you'll work on a small team, collaborating closely with other product teams and you’re able to switch projects as our fast-paced business grows and evolves. We need our engineers to be versatile and passionate to tackle new problems. Because you’ll be working with cutting-edge technology, you’ll also get a chance to work closely with researchers across Google.
+
+There is always more information out there, and the Knowledge team has a never-ending quest to find it and make it accessible. We're constantly refining our signature search engine to provide better results, and developing offerings like Google Instant, Google Voice Search and Google Image Search to make it faster and more engaging. We're providing users around the world with great search results every day, but at Google, great just isn't good enough. We're just getting started.
+
+Responsibilities
+- Participate in research for artificial intelligence and machine learning applications.
+- Identify and develop solutions to challenges in this area.
+- Qualifications
+- Minimum qualifications:
+- BS degree in Computer Science, or related technical field, or equivalent practical experience.
+- Experience with machine learning, algorithms (e.g., linear regression, classification, neural networks) and linear algebra, probability/statistics.
+- Experience with coding in C, C++, Java and/or Python.
+
+Preferred qualifications:
+- MS degree or PhD in Computer Science, Artificial Intelligence, Machine Learning, or related technical field.
+- Experience in Machine Learning or Artificial Intelligence.
+
+# --------------------------------------------------------------------------------------------------
+Machine Learning Researcher
+BMW Technology Corporation
+Chicago
+
+BMW Technology Corporation is committed to developing creative, breakthrough connected car services that integrate consumers’ digital lives with their mobility needs. Our teams build these experiences here in Chicago so we are developing a dynamic and invigorating work environment. If you share our vision and are ready to help shape this exciting business, we’d like to learn how your talents can drive excellence in products and processes in the new BMW Chicago Technology Center.
+We aim to identify a number of product opportunities where we can make a difference in the market, in areas aligned with our vision. Researchers are responsible to work on rich data intelligence that is used for the big data processing in the cloud behind our new line of products and services.
+
+As a data mining and machine learning researcher you will be responsible for transforming large amounts of diverse data into actionable models and descriptive knowledge. Our team takes pride in working beyond data mining and machine learning research area. We are creating smart driving user experiences by leveraging the mobile internet, context-awareness, to create a personalized digital service that connects all the available data and information that matters to BMW users. This position has accountability for development of a contextual, intelligent and personalized engine leading to great user experience, high business value and innovative differentiation.
+
+He/she will initiate, manage, design, implement and deliver machine learning/data mining, analysis/context-aware recommendation solutions for a digital service used to create a smart driving experience while carrying out the research on context data intelligence that will impact the research communities around data and computing.
+
+Responsibilities:
+- Accountability for development of contextual, intelligent and personalized engine leading to great user experience, high business value and innovative differentiation
+- Initiate, manage, design, implement and deliver machine learning/data mining, analysis/context-aware recommendation solutions for digital service with smart driving experience
+- Collect, process and analyze large dynamic real-world inhomogeneous data sources
+- Design and implement scalable data-driven solutions in cloud
+- Develop well-performed computational and statistical models
+- Develop novel and useful machine learning and data mining techniques, as well as assess 3rd party machine learning and data mining components
+- Carry out the research on context data intelligence that will impact the research communities around data and computing
+
+Join the team at BMW of North America and enjoy a high-performance employment package which includes:
+
+- Company paid Medical, Dental & Vision Insurance
+- Employee car program
+- 401(k) Savings Plan
+- Retirement Income Account
+
+Minimum Requirements:
+- MS in Computer Science, Electrical Engineering, or related fields; PhD preferred.
+- 0-5 years of recent experience as a researcher with proven academic track record and expertise in both the theory and practice of machine learning, data mining, algorithms, context modeling, recommendation systems, context data intelligence and personalized service, statistical signal processing and pattern recognition.
+- Passion and excellent performer for innovation in data intelligent and personalized services, and being able to create the novel solution into products.
+- Solid experience with various machine learning and data mining methods, in order to decide what methods would are the most suitable for the task at hand. Sufficient knowledge of varying paradigms in data analysis, and understanding of their conceptual and practical strengths and weaknesses.
+- Strong programming skillset (Java, Python, C++, R, etc.), and on big data processing framework (e.g. Hadoop, DB).
+
+Preferences:
+- Plus if you have working experience in machine learning algorithm roles in the industry; being able to have initiatives, managing the project from concepting to the product.
+
+BMW NA is an EO employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, or protected veteran status.
+
+# --------------------------------------------------------------------------------------------------
+Talented Team Player
+Pal robotics
+Barcelona, Spain
+
+PAL Robotics is a robotics company developing humanoid service robots. Our goal is to develop humanoids that can perform useful tasks in the real world. We are a young and multidisciplinary team of highly motivated engineers, that have successfully developed several prototypes.
+
+Job Description
+We are always looking for talented people. If you think you're a good fit, apply!
+
+Additional Information
+All your information will be kept confidential according to EEO guidelines.
+
+# --------------------------------------------------------------------------------------------------
+Software Engineer - Machine Learning
+Jonajo Consulting
+Home office
+Tipo de contratación: Honorarios profesionales
+30,001 - 35,000 Pesos
+
+gema@jonajo.com
+
+We are searching for a Software Engineer who has a solid understanding of the conceptual framework that underlies machine learning; an in depth knowledge of methods, tools, techniques. The right candidate will be a ‘master’ of data science!
+
+RESPONSIBILITIES
+- Processing semi-structured natural language data using NLP.
+- Improving the comprehension of this natural language data over time using machine learning techniques.
+- Designing and running experiments to advance our machine learning understanding and techniques
+- Developing new algorithms
+- Maintaining and enhancing our existing machine learning tool sets and operational software suites
+
+QUALIFICATIONS
+- Graduate or Bachelor level degree in a quantitative field - CS, EE, Statistics, Math
+- Strong background and proven industry experience in software development
+- Experience with machine learning, NLP, modeling, prediction, neural networks
+- Collaboration – you have great collaborative skills, as well as the ability to work well independently and self-directed
+- Strong coding ability in Python and familiarity with R
+- Analytical, inquisitive, adaptable, think beyond the normal shaped box!
+- Linux development experience
+- Experience with cloud platforms such as Google Cloud Platform and AWS
+
+# --------------------------------------------------------------------------------------------------
+Machine Learning Engineer
+Boston Dynamics
+Waltham, Massachusetts
+Full Time
+Min. Experience: Experienced
+
+Boston Dynamics is seeking a Machine Learning Engineer to help enable novel autonomous robotics applications and enhance human-robot interaction. The ideal candidate will have a Ph.D. demonstrating ability to design and execute a novel application of machine learning. Masters level candidates with strong experience will also be considered.
+
+Required Skills:
+
+- Comfortable writing and debugging C++ and Python Code
+- Design of relevant feature sets for data collection and training
+- Familiarity with the implementation of distributed training systems
+- Familiarity with available machine learning toolkits (eg Tensorflow, Cuda)
+- Experience with applications of machine learning to video or image analysis
+
+Desired Skills:
+
+- Application of machine learning to 3D data sets
+- Familiarity with cloud-based API's
+- Experience with robot systems and autonomy
+- Familiarity with graphics programming
+
+# --------------------------------------------------------------------------------------------------
+Date: 23/07/18
+# --------------------------------------------------------------------------------------------------
+Advanced R&D Lead/Scientist/Engineer
+Thalmic Labs
+Kitchener, Ontario, Canada  Full Time  Advanced Research and Development  Experienced
+
+About you:
+You have a thirst for knowledge with a broad technical background and thrive in a fast-paced high-tech development environment. You excel at taking a high-level goal with no obvious solutions, quickly becoming an expert in the relevant areas of technology, and creating proof-of-concept prototypes as quickly as possible.
+
+Feel like you can’t tick all the boxes? If you have some of the skills and experience that we’re looking for and are willing to use your talent to learn the rest, we encourage you to apply!
+
+What you'll do:
+There are a variety of roles open within Thalmic's Advanced R&D group. We run many "moonshot" projects to develop technology that doesn't exist yet. We're looking for both individual team members and team leads. Technical areas of interest include physics, optics, electronics, human-computer interface (HCI), artificial intelligence, and machine learning.
+
+What you need:
+
+A broad technical background with deep knowledge in at least one area of expertise
+Experience in an environment developing new technology
+A hacker mentality and the ability to make stuff
+Why Thalmic:
+
+Day-to-day, we challenge each other to constantly raise the bar, encourage unconventional thinking to achieve innovative breakthroughs, and are passionately committed to surpassing our goals. We advocate a healthy lifestyle and promote continuous learning in a flexible work environment. Most of all, we set visionary goals, and we’re passionate about building the best, most impactful products that people will love.
+
+About us:
+
+Thalmic is a hardware + software company building exciting technologies that will shape the future of human-computer interaction, backed by a world-class team of investors including Intel Capital, Spark Capital and The Amazon Alexa Fund.
+
+We announced our first product, the Myo gesture control armband, in 2013, and pre-sold over 10,000 units in the first 48 hours. Myo is now shipping worldwide and has gone on to win numerous awards, including Digital Trends’ “Best of CES 2014” Award for Cool Tech.
+
+# --------------------------------------------------------------------------------------------------
+Software Engineer, Research
+Kitchener, Ontario, Canada  Full Time  Software Engineering  Mid Level
+About you:
+
+You're a software generalist who loves solving tough problems. You’re comfortable working with minimal requirements and will persevere through challenges to make forward progress. You have the experience and wisdom to know when an existing solution can be applied, but can reason from first principles and invent novel approaches when required. You are remarkably skilled in at least one software discipline (e.g. web, networking, embedded, systems, user interfaces, etc.), but are comfortable working on any software problem. You are excited to contribute to the next big leap forward in computing.
+
+Objectives:
+
+Within three months
+Design, architect, and implement prototypes together with a larger research and development team
+Connect with domain experts are across the software organization and be able to seek help in working on things outside your own core expertise
+Apply your core expertise on one or more existing cross-functional research projects
+Collaborate with researchers from other disciplines (e.g. human-computer interaction, data science, machine learning, and electrical engineering)
+Rapidly deliver software solutions to unique and difficult engineering problems
+Find creative ways to leverage the advantages of our wearable platform and work around any limitations
+Be capable of answering questions from others on our processes, tools, and techniques
+Beyond
+Lead development of new software technologies for our wearable platform
+Make improvements to existing processes, tools, and techniques
+Work with production design and engineering teams to ensure research projects are successfully implemented in shipped products
+Invent novel software systems to enable the next generation of computing
+Mentor other software developers on the team and nurture a culture of generous excellence
+What you need:
+
+Ability to start new projects from scratch and the will to end them if they fail
+An open and collaborative attitude with a focus on team success
+Experience designing software solutions for complex, multifaceted problems and systems
+Strong coding skill in C, C++, Python, Javascript, or another high-level language
+Degree in computer science, engineering, or equivalent (in lieu of degree, minimum four years of relevant work experience)
+Bonus points for:
+
+Technical leadership experience on past software projects
+Experience working on a product that combines both software and hardware
+Proven ability to quickly learn new languages, frameworks, and platforms
+Relevant personal projects or open source work
+Proficiency with git
+
+Feel like you can’t tick all the boxes above? If you have some of the skills and experience that we’re looking for and are willing to use your talent to learn the rest, we encourage you to apply!
+
+# --------------------------------------------------------------------------------------------------
+Machine Learning Engineer
+Toyota Research Institute
+LOS ALTOS, CA; ANN ARBOR, MI
+CORE – MACHINE LEARNING
+FULL-TIME
+
+At Toyota Research Institute (TRI), we’re working to build a future where everyone has the freedom to move, engage, and explore with a focus on reducing vehicle collisions, injuries, and fatalities. Join us in our mission to improve the quality of human life through advances in artificial intelligence, automated driving, robotics and materials science. We’re dedicated to building a world of “mobility for all” where everyone, regardless of age or ability, can live in harmony with technology to enjoy a better life. Through innovations in AI, we’ll… 1) Develop vehicles incapable of causing a crash, regardless of the actions of the driver. 2) Develop technology for vehicles and robots to help people enjoy new levels of independence, access, and mobility.3) Bring advanced mobility technology to market faster. 4) Discover new materials that will make drive batteries and hydrogen fuel cells smaller, lighter, less expensive and more powerful.
+
+Our work is guided by a dedication to safety – in how we research, develop, and validate the performance of vehicle technology to benefit society. As a subsidiary of Toyota, TRI is fueled by a diverse and inclusive community of people who carry invaluable leadership, experience, and ideas from industry-leading companies. Over half of our technical team carries PhD degrees. We’re continually searching for the world’s best talent ‒ people who are ready to define the new world of mobility with us!
+
+We strive to build a company that helps our people thrive, achieve work life balance, and bring their best selves to work. At TRI, you will have the opportunity to enjoy the best of both worlds ‒ a fun start up environment with brilliant people who enjoy solving tough problems and the financial backing to successfully achieve our goals. If you’re passionate about working with smart people to make cars safer, enable the elderly to age in place, or design alternative fuel sources, TRI is the place for you. ‒ Start your impossible with us.
+
+As a machine learning engineer, you are at the forefront of advancing our core artificial intelligence efforts. You work alongside top research scientists in machine learning and are responsible for deploying cutting-edge machine learning techniques across truly vast amounts of data. You interact closely with our data teams to design and deploy large-scale distributed infrastructure for training and inference. You are passionate about applying machine learning to real-world problems in autonomous driving and robotics and about building the required frameworks and tools to do so.
+Responsibilities
+Help create new deep learning approaches and apply them to tackle a plethora of real-world problems, such as large-scale scene understanding, semantic segmentation, action recognition, etc.
+Engineer big-data tools and pipelines to train, evaluate and deploy deep neural networks across TRI’s datasets
+Design and implement features for our distributed (cloud and bare-metal) machine learning infrastructure
+Work on creating new pathways through TRI’s machine learning data stack utilizing AWS and other compute platforms
+Build smarter, more efficient ways of automating deep learning processes, including labeling, training, testing and visualization
+Evaluate, adapt and apply popular deep learning frameworks for global, petabyte-scale use
+Qualifications (profile 1):
+Advanced Computer Science degree (or related)
+Qualifications (profile 2):
+BS in Computer Science or related field with 3+ years of meaningful work experience
+Proven software engineering skills in Python and/or C++
+Direct experience with TensorFlow (preferred), Caffe, Keras, Theano or Torch
+Hands-on experience with cloud frameworks such as AWS, GCP or Azure
+Excited about building powerful yet efficient big-data infrastructure for machine learning
+
+TRI provides Equal Employment Opportunity without regard to the applicant's race, color, creed, gender, gender identity or expression, sexual orientation, national origin, age, physical or mental disability, medical condition, religion, marital status, genetic information, veteran status, or any other status protected under federal, state or local laws.
+
+# --------------------------------------------------------------------------------------------------
+Research Engineer, Machine Learning
+Postmates Inc.
+San Francisco Bay Area
+
+At Postmates X, we are building the future of on-demand delivery. We are solving real-world problems related to artificial intelligence, including computer vision and decision making.
+
+You would be working on researching through the state-of-arts and developing the right algorithm solution for a challenging problem; you would be working on taking a prototypical algorithm solution and improving the computational efficiency and reliability to prepare it for production level deployment; you would also be working on building and maintaining the life cycle of training/deploying of machine learning models with more data or larger scale.
+
+We don’t require you to have deep experience in machine learning or industrial/academic research, but we hope you possess a data driven mind, strong understanding of computer systems, and a passion to learn deep learning in terms of both algorithm design and implementation.
+
+Responsibilities
+
+Develop and experiment with machine learning / deep learning algorithms to solve problems in computer vision, multi-modalities fusion, and decision making
+Maintain the life cycle of data collecting, training, and deployment of machine learning /deep learning systems
+Build software solutions for real-world applications at scale and in real-time
+
+Minimum qualifications:
+
+BA/BS degree in Computer Science, related technical field or equivalent practical experience
+Experience with one or more general purpose programming languages including but not limited to: C/C++ or Python
+Knowledge in linear algebra, calculus, statistics and optimization
+Exposure to machine learning approaches
+Ability to analyze experimental data to guide development
+
+Preferred qualifications:
+
+MS or PhD degree in Computer Science, Artificial Intelligence, Machine Learning, or related technical field
+Data analysis and visualization experience
+Backend experience
+Exposure to industry or academic research
+Exposure to Deep Learning, Neural Networks, or related fields
+Exposure to Object Detection, Semantic Segmentation, 3D Reconstruction, Image Retrieval, or related computer vision research fields
+
+# --------------------------------------------------------------------------------------------------
+Machine Learning Engineer (C++)
+Cybercoders (recruiters)
+
+Based in beautiful San Francisco and just blocks away from AT&T park, we are a ground breaking, series C startup company that manufactures and creates motion-control hardware & software for VR.
+
+We looking to add a passionate Machine Learning Engineer to join our team and help us grow to the next level! If you are a Machine Learning Engineer with strong C++ skills and are proficient in Python, R, or MATLAB, we would love the time to tell you more about this amazing opportunity!
+
+Top Reasons to Work with Us
+- Once-in-a-lifetime opportunity to define input for a computing paradigm
+- Be a part of a mission-driven organization
+- Have received close to 100 million in funding
+- Small company with hardware and software engineers, designers, and product leaders under the same roof
+
+What You Will Be Doing
+- Research and develop algorithms by applying a variety of machine learning techniques
+- Provide regular detailed analyses that form the foundation for data-driven decisions on priorities and roadmap planning
+- Create, manage, modify, maintain, and present both the analytic and qualitative aspects of user data to improve the performance and stability of our tracking
+
+What You Need for this Position
+- BS/MS/PH.d Computer Science, Applied Mathematics, Physics
+- Strong C++ skills
+- 2-4 years working with data analysis
+- Possess a strong background in Machine Learning
+- Proficient in scientific computing language (Python, R, or MATLAB)
+- Proficient with some analysis language/library (scikit-learn, NumPy, R, SciPy)
+
+What's In It for You
+- Competitive Salary & Equity Package
+- Comprehensive benefits (health, dental, vision flex spending acct)
+- Unlimited vacation
+- Daily catered lunches and dinners
+- Full stocked fridge & pantry
+- Dog-friendly
+
+So, if you are a Machine Learning Engineer with 2-4 years relevant work experience in data analysis and you have a strong background in Machine Learning, please apply today!
+
+Applicants must be authorized to work in the U.S.
+
+# --------------------------------------------------------------------------------------------------
+Date: 30/07/18
+# --------------------------------------------------------------------------------------------------
+Data Scientist
+El Grande Group
+Apaseo el Grande, Gto.
+$50,000 - $55,000 al mes
+
+El Grandes Tech Services (EGTS) is supporting an emerging high-tech company based in Silicon Valley, focused on an innovative platform that provides insights and answers to the complexity of ever-growing information. The company has successfully launched a portfolio of products and services, including an intelligent framework based on a stack of Artificial Intelligence algorithms that digest a multitude of data sources, both structured and unstructured, and extract financial, economic, political and social indicators, alongside the semantic explanatory rationale describing any given event. Such a portfolio of services gives influential decision makers, researchers and analysts a critical edge by connecting them to a dynamic network of information.
+
+The job is based in San Miguel. Travel to Silicon Valley is expected. EGTS will manage all visa related issues.
+
+The Role:
+
+Creating, designing and implementing the next generation of knowledge discovery tools and big data analytics.
+Successful candidates will be expected to develop cutting-edge machine learning algorithms that can be used to extract decision-making signals from heterogeneous streams of unstructured data in real-time.
+Applicants must have a strong background in machine learning, computational semantics, and statistical modeling for predictive analytics. In addition, candidates are expected to have hands-on experience in deploying data analysis and machine learning algorithms on distributed systems.
+
+Core Responsibilities:
+
+Collecting and preprocessing data, prototyping concepts, designing cutting-edge machine learning algorithms
+Testing them on production data
+
+Key Qualifications:
+
+PhD or a Master’s degree in Computer Science or related fields (preferably with major in Machine Learning / AI)
+3+ years relevant experience
+Strong knowledge of state-of-the-art algorithms in machine learning (e.g. Bayesian learning, latent/topic models, approximate inference, deep networks, stochastic processes), graph analysis (e.g. community detection, random walk) and statistical modeling (e.g. hypothesis testing, dimensionality reduction)
+Proficiency in standard data analytics toolkits in Python, Scala or R
+Hands-on experience of Hadoop 2.0 (Spark, MapReduce) and AWS ecosystems is highly beneficial.
+
+# --------------------------------------------------------------------------------------------------
+Algorithms Engineer
+Continental
+Querétaro, Qro.
+
+The Driving Functions Algorithm Engineer will be responsible for the development, design and maintenance of features in radar, camera, fusion, and/or vehicle control systems. Actively work with internal and external engineering teams to bring products into production.
+
+Additional responsibilities
+
+Develop embedded sensor algorithms to meet product requirements
+Utilize advanced data analysis techniques to provide insight and inspire future development
+Maintain correspondence with multiple engineering teams, both internal and external.
+Maintain a thorough understand of customer and product requirements
+Follow the Continental material life cycle development process, including code, requirement, and test result reviews
+
+Basic Qualifications:
+
+Effective communication in English (TOEIC 700+)
+BS degree in related Engineering field, Computer Science, Physics, or Mathematics
+Strong ability to solve problems in logic, mathematics, and dynamics
+Firm grasp of statistical concepts
+Proficient at implementing algorithms with C/C++ programming
+Skilled at analysing large sets of data using Python/Matlab
+Experience developing complex software
+Solid knowledge developing prediction, tracking, and classification algorithms for computer vision, machine learning etc
+Willingness to work on different sensor products, and serve many different roles to fill department needs
+Must be willing to travel internationally or domestically, approximately 10% of time may be spent in other locations
+
+Preferred Qualifications
+
+Fluent communication in English (TOEIC 900+)
+M.S./Ph.D. degree in related Engineering field, Computer Science, Physics, or Mathematics
+Expert ability to solve problems in logic, mathematics, and dynamics
+Experience developing automotive controls systems
+Self motived, with an ability to work within a team or autonomously
+
+# --------------------------------------------------------------------------------------------------
+Deep Learning Engineer
+Multiplica
+Ciudad de México, D. F.
+
+We are looking for a skilled Deep Learning Engineer to join the team of an innovative start-up in the FinTech sector. This position is located in Mexico City.
+Multiplica Talent is looking for you: We are a human resources consultancy specializing in digital talent.
+We are looking for engineers with development experience in deep learning. The candidates must be capable of contributing to a fast-paced, project development environment for the banking sector.
+
+Responsibilities:
+
+Research and apply new technologies for a banking robot advisor.
+Develop state of the art deep learning techniques.
+Join in internal/external brainstorming meetings to generate new application ideas.
+Collaborate with industry consortiums, universities, or internal departments.
+
+Requirements:
+
+BSc/MSc/PhD Computer Science, Math, or Physics or equivalent work experience.
+Comfortable in a hands-on lab environment.
+Fluency in English and Spanish (preferred)
+Experience with Python and packages such as Numpy and Pandas.
+Familiar with algebra, calculus (multivariable derivatives) and linear algebra (matrix multiplication).
+Experience using modern deep learning frameworks (Keras, TensorFlow) to build multi-layer neural networks, and analyze real data.
+Experience in building convolutional networks and use them to classify images (faces, melanomas, etc.) based on objects that appear in them.
+Experience in building recurrent networks and long short-term memory networks with Keras and TensorFlow; performing sentiment analysis and generating new text. Use recurrent networks to generate new text from TV scripts.
+Experience in using deep neural networks to design agents that can learn to take actions in a simulated environment.
+
+Benefits:
+
+Competitive salary
+Growth opportunities
+Continuous learning
+Impact millions of customers with the development of a new product
+
+# --------------------------------------------------------------------------------------------------
+Skycatch
+C++ and Python Developer
+Guadalajara, Jalisco
+
+We build platforms that perform complex tasks to better understand construction sites, among other environments. Drones with cameras, cameras on the field, LiDAR, and other sensors provide the data, while you will build the algorithms that can generate actionable data. If this what you're passionate about, come and join our Computer Vision team.
+
+What you'll do:
+
+Research, implement and maintain state of the art code structures mostly in C++ and Python
+Ensure computer vision apps run smoothly and fast in a production environment.
+Use best practices for software development, including functional specs, code reviews, revision control and unit testing
+Be able to develop and maintain applications that can scale with enterprise-grade performance
+
+What we're looking for:
+
+Degree in Computer Science
+Proficiency in C++ and the standard libraries
+Proficiency in Python and its standard libraries
+Solid understanding of memory management and performance optimization in C++
+
+Desired Skills:
+
+Experience with Tensorflow and Deep Learning a plus
+Experience with OpenCV/PCL/CUDA/OpenCL/OpenMP a plus
+Experience with some SfM library a plus
+Knowledge of Docker a plus
+Knowledge of AWS a plus
+
+# --------------------------------------------------------------------------------------------------
+Date: 01/08/18
+# --------------------------------------------------------------------------------------------------
+Machine Learning Engineer
+OpenAI
+SAN FRANCISCO
+
+The Machine Learning Engineer role is responsible for building AI systems that can perform previously impossible tasks or achieve unprecedented levels of performance. This requires good engineering (for example: designing, implementing, and improving a massive-scale distributed machine learning system), writing bug-free machine learning code (surprisingly difficult!), and building the science behind the algorithms employed. In all the projects this role pursues, the ultimate goal is to push the field forward.
+
+The most outstanding deep learning results are increasingly attained at massive scale, and these results require engineers who are comfortable working in a large distributed systems. We expect engineering to play a key role in most major advances in AI of the future.
+
+You should apply if you are a software engineer who is fairly comfortable with linear algebra, basic statistics, and the basics of stochastic gradient descent. Experience in machine learning is a bonus. You are not expected to have mastery of deep learning — the problems we pursue are always at the edge of the state of the art, which means that nobody's an expert.
+
+# --------------------------------------------------------------------------------------------------
+Machine Learning Research Engineer
+Arm
+Boston, MA, US
+
+The Arm Research machine learning research group in Boston collaborates with product teams to deliver industry leading hardware and software solutions to Arm’s partners. We, the Boston team, also work closely with the leading academic machine learning groups in the Boston area to ensure that the latest developments inform new and existing Arm products, from IoT and mobile devices through to automotive and enterprise systems.
+
+We are looking to add extraordinary researchers to the Boston Machine Learning research group. You will have the opportunity to influence real products through leading-edge research. You will also be afforded the freedom to develop new skills, collaborate with academic partners and publish your research.
+
+We are a team whose architecture and systems research activities cover a wide range of disciplines including mobile and laptop personal computing platforms and applications; server, cloud, and HPC computing; emerging memory technologies; interconnects; design and analysis of security protocols; safe and fault tolerant systems; exploiting parallelism with vector, SIMD, throughput, and multi-core architecture; machine learning and computer vision; robotics; and data analytics.
+
+Job Requirements
+
+What will I be accountable for?
+
+You will specifically be responsible for
+
+- Identifying key machine learning technologies, and determining how they’ll impact Arm products and partners
+- Developing and adapting machine learning algorithms for energy constrained mobile and wearable devices
+- Collaborating with Arm product teams to influence new hardware and software IP
+- Advancing the state of the art in areas such as natural language processing, computer vision, sensor fusion, object tracking, and motion planning
+- Prototyping hardware and software solutions
+- Attending conferences and collaborating with academic partners
+- Reporting and presenting experimental results and research to internal and external organizations
+
+What skills, experience, and qualifications do I need?
+
+- BS, MS or PhD in computer science, mathematics, physics, electrical engineering or related discipline
+- Proven understanding of machine learning/deep learning.
+- Deep understanding of CPU and GPU micro-architecture
+- Strong CPU/GPU programming skills
+- Scientific, data-driven, objective mindset
+- Some familiarity with computer architecture and hardware design is desirable
+
+What are the desired behaviors for this role?
+
+At Arm, we are proud to have a set of behaviors that reflect our unique culture and guide our decisions, defining how we work together to defy ordinary and shape extraordinary. These behaviors are assessed as part of the recruitment process
+
+- Delivery of results – You demonstrate a can-do attitude and you drive to overcome obstacles, acting with a sense of urgency because you’re passionate about what you do.
+- Partner / customer focus – Your tendency to put your partners and customers first in all that you do by understanding their needs and striving to achieve win-win solutions.
+- Creativity / innovation – Possessing curiosity and a passion for driving continuous improvement through spotting opportunities and seeking the views of others.
+- Collaboration / communication – Your ability to forge lasting relationships which are built upon mutual trust, open communication and sharing of information and success.
+- Personal impact / influence – You listen to different perspectives, evaluate, persuade and carefully shape your work to deliver truly impactful results.
+- Team / personal development – You take time to drive your own development, while also encouraging team members and partners to do the same.
+
+
+# --------------------------------------------------------------------------------------------------
+Machine Learning Software Engineer
+DEKA Research & Development
+Manchester, New Hampshire, United States
+
+As Machine Learning Software Engineer for DEKA's rapidly growing Autonomous Robotics team, you will have a unique opportunity to define and implement neural networks and machine learning pipelines to bring Artificial Intelligence to state-of-the-art technology and improve lives.  You'll be hands on, working with teams across DEKA building, designing, and shipping projects that have a positive, enduring impact on millions of people worldwide.
+
+Responsibilities:
+
+- Design and apply machine learning algorithms and evaluate their performance on real-world and simulated data sets.
+- Translate generated algorithms into production-level code.
+- Collaborate with various teams to achieve objectives in improving system performance and safety.
+- Integrate with existing software practices that produce maintainable code, including automated testing, continuous integration, code style conformity, and code review.
+
+Requirements:
+
+- Masters or PhD in CS, aerospace, robotics, or similar engineering field.
+- 1 year of experience.
+- Familiarity with autonomous robotics and vehicle systems.
+- In-depth understanding of common Machine Learning algorithms (e.g., for classification, regression and clustering).
+- Track record in advanced topics of Machine Learning (e.g., Bayesian inference, hierarchical models, deep learning, Gaussian processes, etc.).
+- Experience with behavior modeling and intent interpretation research work.
+- Practical experience in preparing data for Machine Learning.
+- You demonstrate excellent C/C++ programming, software design, and debugging skills in a Linux environment.
+- Experience with a scripting language (Python, Bash, etc.)
+- Experience with AWS, Azure, or other Cloud systems desired.
+- Experience developing and shipping products in a commercial environment.
+
+
+# --------------------------------------------------------------------------------------------------
+ROBOTICS RESEARCHER (COMPUTER VISION)
+Eurecat Centro Tecnológico de Cataluña
+59-2018
+
+The main responsibilities will include the contribution and support of our software developments in different aspects of robotics with a special focus on computer vision (OpenCV, PCL and HALCON) as well as reports and project proposal elaboration. We are seeking a highly motivated applicant to develop generic computer vision and machine learning algorithms, focused on pose estimation, object detection and tracking, activity recognition and detection from depth images and videos.
+
+Required skills:
+
+* MSc or PhD in Robotics/Computer Vision or related discipline
+* Knowledge about Machine Learning Techniques and deep learning (Tensorflow, SciKit, Caffe)
+* Advanced experience with C++ and real-time programming.
+* Team spirit and ability to work independently.
+* Excellent communication skills, flexibility and creativity.
+* Very good knowledge of English is required.
+
+Other specializations will be considered depending on the applicant background and experience.
+
+Desired skills and experience:
+
+* Knowledge about ROS (Robot Operating System)
+* Knowledge about industrial robot programming (ABB, KUKA, UR…).
+* Experience with Industrial Computer Vision Hardware and Software, and their use in Robotics
+* Familiarity with other aspects of mobile robots (i.e. path planning, perception, etc. )
+* Experience with robotic hardware and electronics.
+
+# --------------------------------------------------------------------------------------------------
+INVESTIGADOR INTELIGENCIA ARTIFICIAL Y DATA ANALYTICS
+Eurecat Centro Tecnológico de Cataluña
+22-2018
+
+FUNCIONES Y RESPONSABILIDADES:
+
+Incorporándose a nuestro equipo de I+D en el área de e-Health, buscamos incorporar un investigador experto en Data Analytics e Inteligencia Artificial.
+
+- Participar en proyectos Investigación y Desarrollo de soluciones tecnológicas basadas en la combinación de tecnologías de Inteligencia Artificial y Analítica de Datos, especialmente aplicados a e-Health.
+- Investigación, análisis de datos y desarrollo de algoritmos de simulación y apoyo a la decisión clínica.
+- Colaboración en la preparación de propuestas de proyectos Europeos de I+D.
+- Apoyar el desarrollo de proyectos en todas las actividades tecnológicas que requiera para el adecuado funcionamiento.
+- Desarrollo de documentación básica relacionada con las tareas en las que interviene
+
+REQUISITOS
+
+FORMACIÓN Y CONOCIMIENTOS:
+
+- Ingeniero / licenciado en Matemáticas, Física, Informática o similar
+- Deseable doctorado, máster o postgrado en Inteligencia Artificial o Data Analytics
+
+Es recomendable tener conocimientos de:
+
+- Inteligencia artificial, machine learning, deep learning, etc.
+- Programación avanzada: Lenguajes Python/Java
+- Bases de datos
+- Matemáicas, estadística aplicada (R o similar)
+- Valorable conocimiento sector salud
+
+EXPERIENCIA:
+
+- Se precisa experiencia  trabajando con algoritmos de inteligencia artificial para solucionar problemas de diversa índole y análisis de datos
+- Se valorará experiencia aplicando dichos algoritmos en temas relacionados con la salud.
+
+IDIOMAS
+
+Inglés: alto
+
+# --------------------------------------------------------------------------------------------------
+Date: 08/08/18
+# --------------------------------------------------------------------------------------------------
+Software Engineer - Machine Learning
+Jonajo Consulting
+Monterrey (?)
+
+We are searching for a Software Engineer who has a solid understanding of the conceptual framework that underlies machine learning; an in depth knowledge of methods, tools, techniques. The right candidate will be a ‘master’ of data science!
+
+RESPONSIBILITIES
+
+- Processing semi-structured natural language data using NLP.
+- Improving the comprehension of this natural language data over time using machine learning techniques.
+- Designing and running experiments to advance our machine learning understanding and techniques
+- Developing new algorithms
+- Maintaining and enhancing our existing machine learning tool sets and operational software suites
+
+QUALIFICATIONS
+
+- Graduate or Bachelor level degree in a quantitative field - CS, EE, Statistics, Math
+- Strong background and proven industry experience in software development
+- Experience with machine learning, NLP, modeling, prediction, neural networks
+- Collaboration – you have great collaborative skills, as well as the ability to work well independently and self-directed
+- Strong coding ability in Python and familiarity with R
+- Analytical, inquisitive, adaptable, think beyond the normal shaped box!
+- Linux development experience
+- Experience with cloud platforms such as Google Cloud Platform and AWS
+
+# --------------------------------------------------------------------------------------------------
+Become a Machine Learning Engineer
+deeplearning.ai
+United States
+
+AI is the new electricity. There are millions of opportunities to transform industries with artificial intelligence, but today’s AI job market is broad and undefined. It isn’t always clear to AI engineers - novices and experts alike - how to determine which opportunities best match their career interests and skill sets.
+
+We’re looking for entry-level and experienced AI engineers of all levels who are seeking new technical roles. We’d like to learn what you’re looking for in your next opportunity, and match you with potential roles available in our community. These are applied engineering roles spanning industries including education, manufacturing, health-care, autonomous driving, energy and transportation, robotics, media and entertainment, and more.
+
+Who should apply
+
+If you’re an engineer familiar with machine learning techniques, we’d like to hear from you. That means you’re probably familiar with most of the following:
+
+Deep learning. You should be able to understand and apply major deep learning methods, including neural network training, regularization, optimization methods (gradient descent, Adam), and be familiar with major neural network architecture types such as Convolutional Networks, RNN/LSTM. Completion of the deeplearning.ai specialization is sufficient to meet this criteria.
+
+Machine learning. You should be able to understand and apply major machine learning methods, such as logistic regression, SVM, Decision Trees, Principal Component Analysis and K-means. Completion of Andrew Ng’s Machine Learning course on Coursera is sufficient to meet this criteria.
+
+Implementation. You should have prior experience taking a dataset, cleaning it if necessary, and applying a learning algorithm to it to get a result. You should be able to implement a learning algorithm “from scratch” using a framework such as Tensorflow, Pytorch, Caffe, etc.
+
+General coding. You should be able to code non-trivial functions in object oriented programming, such as popular sorting or search algorithms. You should know how to use your terminal, and work with version control systems (Git). Software engineering experience such as working with relational databases, APIs, and building the back-end of web or mobile applications is helpful but is not required.
+
+Mathematics (including probabilities and statistics.) You should be able to use mathematical notations and linear algebra (matrix/vector operations, dot products, etc.), and understand basic probability theory (distributions, independence, density functions, etc.) as well as statistics (mean, variance, median, quantiles, co-variance, etc.)
+
+# --------------------------------------------------------------------------------------------------
+Date: 19/08/18
+# --------------------------------------------------------------------------------------------------
+Data Scientist (R2/RE12)
+Barcelona Supercomputing Center
+
+The Computational Applications in Science and Engineering department (CASE) works with industry and academia developing software and applications that leverage the power of High Performance Computing to solve real problems. In particular, a large line of research and development is focused on the energy industries. Inside the CASE department works the Data Analytics and Visualization group, whose role is to develop and apply advanced statistical and determinist models to extract valuable information from large data sets, and convert them into visual and useful tools and representations.
+We are starting a pilot project with a large multinational company for applying machine learning and artificial intelligence algorithms for decision making in the energy markets, and specially the impact of alternative energies (mainly sun and wind). We aim at predicting the behavior of the energy markets using a variety of public and simulation data, and extracting useful actionable information from these predictions. If the pilot is successful, it will enter production mode and the team will be expected to continue research on more advanced models and predictions.
+
+The role of this position will be to collect and organize data, and, in collaboration with domain scientists and other data scientists in the team, explore statistical machine learning models for the goals defined above.
+
+Key Duties
+
+- Work in collaboration with the other researchers and developers in the team
+- Interact with domain specialists to understand the problems, the origin and nature of all pertinent data, and use this knowledge to construct sensible and correct machine learning models
+- Collect, store, and organize the data obtained from public sources and from private collaborators according to its level of confidentiality and in such a way that it can be used easily by the rest of the team
+- Produce periodic reports of project progress
+- Collaborate with other members of the group to learn and transfer knowledge and technology that could be useful for other projects (safeguarding confidentiality and exclusivity agreements to be signed at arrival)
+- The candidate will work closely with the project team and the rest of the analytics and visualization group
+
+Requirements
+
+Education
+- PhD or Master in either Computer Science with a focus on data science, applied Mathematics, or statistical Physics
+
+Essential Knowledge and Professional Experience
+- Applied data science projects
+- Experience with distributed and remote computing and storage infrastructures (e.g. Spark, Cassandra, Flink, Hadoop, Scala, etc.)
+- Ample experience on popular languages for data scientists (R, Python)
+- Experience on machine learning best practices
+- Experience with deep learning frameworks (Tensorflow, Torch)
+- Practical knowledge and experience to build machine learning projects that can be successfully deployed in a production environment
+- General knowledge of and experience on distributed and parallel computing,
+
+Additional Knowledge and Professional Experience
+- Knowledge of financial and energy markets
+- Experience with relational and non-relational databases
+- Experience on stochastic and non-linear optimization methods
+- Setting up machine learning projects in production
+
+Competences
+English advanced
+
+Conditions
+
+- The position will be located at BSC within the CASE Department
+- We offer a full-time contract, a good working environment, a highly stimulating environment with state-of-the-art infrastructure, flexible hours, extensive training plan, tickets restaurant, private health insurance, fully support to the relocation procedures
+- Salary: we offer a competitive salary commensurate with the qualifications and experience
+- of the candidate and according to the cost of living in Barcelona
+- Starting date: September
+
+Applications Procedure
+
+All applications must include:
+
+A motivation letter with a statement of interest, including two contacts for further references - COMPULSORY - Applications without this document will not be considered
+
+A full CV including contact details
+
+
+Deadline
+
+The vacancy will remain open until suitable candidate has been hired. Applications will be regularly reviewed and potential candidates will be contacted.
+
+Diversity and Equal Opportunity Employment
+
+BSC-CNS is an equal opportunity employer committed to diversity and inclusion. We are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or any other basis protected by applicable state or local law.
+
+# --------------------------------------------------------------------------------------------------
+Date: 28/08/18
+# --------------------------------------------------------------------------------------------------
+Robotics Engineer
+Lumenance, LLC
+Querétaro, MX
+
+- This position is for working in the United States. Please only apply if you meet all the requirements
+- Investigate and apply new technologies to prototypes related to connected and automated vehicles.
+- Develop state-of-the-art applications for automated vehicle research.
+- Develop and implement location and perception algorithms to enable automated vehicle technology.
+- Investigate the detection and classification algorithms of cutting-edge objects and implement them in the vehicle.
+- Interface, data collection and processing of a variety of sensors and vehicle systems on board (eg radar, lidars, vision sensors, RTK systems.)
+- Practical integration of robotic software technology in vehicle construction.
+- Join internal / external brainstorming meetings to generate new application ideas.
+- Collaborate with industrial consortiums, universities or internal departments.
+
+# --------------------------------------------------------------------------------------------------
+Algorithm Development Engineer ADAS
+Continental
+Qro, Méx.
+
+The ADAS Algorithm Engineer will be responsible for the development, design and maintainance of features in radar, camera, fusion, and/or vehicle control systems. Actively work with internal and external engineering teams to bring products into production.
+
+Additional responsibilities
+
+- Develop embedded sensor algorithms to meet product requirements
+- Utilize advanced data analysis techniques to provide insight and inspire future development
+- Maintain correspondence with multiple engineering teams, both internal and external.
+- Maintain a thorough understand of customer and product requirements
+- Follow the Continental material life cycle development process, including code, requirement, and test result reviews
+
+Basic Qualifications
+
+- Effective communication in English (TOEIC 700+)
+- BS degree in related Engineering field, Computer Science, Physics, or Mathematics
+- Strong ability to solve problems in logic, mathematics, and dynamics
+- Firm grasp of statistical concepts
+- Proficient at implementing algorithms with C/C++ programming
+- Skilled at analysing large sets of data using Python/Matlab
+- Experience developing complex software
+- Solid knowledge developing prediction, tracking, and classification algorithms for computer vision, machine learning etc
+- Willingness to work on different sensor products, and serve many different roles to fill department needs
+- Must be willing to travel internationally or domestically, approximately 10% of time may be spent in other locations
+
+Preferred Qualifications
+
+- Fluent communication in English (TOEIC 900+)
+- M.S./Ph.D. degree in related Engineering field, Computer Science, Physics, or Mathematics
+- Expert ability to solve problems in logic, mathematics, and dynamics
+- Experience developing automotive controls systems
+- Self­motived, with an ability to work within a team or autonomously
+
+# --------------------------------------------------------------------------------------------------
+Date: 31/08/18
+# --------------------------------------------------------------------------------------------------
+Research Staff Member, AI Learning
+IBM
+Cambridge, Massachusetts
+
+We are looking for talented research scientists who are as passionate as we are about artificial intelligence, advancing science, and inventing the next generation of intelligent machines. We are hiring researchers in a broad range of machine learning areas, including:
+Deep learning, including novel architectures with attention and memory
+Supervised learning, semi-supervised and unsupervised learning, including generative models
+Reinforcement learning
+Meta-learning, learning to learn
+Multi-task learning, transfer learning, few-shot learning, continual/lifelong learning
+Interpretability, fairness, accountability of machine learning models
+Brain-inspired machine learning algorithms
+Optimization for AI/ML
+Bayesian learning, graphical models, causal models
+Learning theory
+Computational creativity
+As an IBM researcher, you will work on the most cutting-edge, exciting projects and collaborate with top researchers both inside IBM and at our partner universities. Your creativity and innovative problem solving will be essential to the success of our team and the company. We want to bring out the best in you and expect you will do the same for us!
+
+081583
+#adaytorefer IWD18HJNA IWD18&A
+
+
+Required Technical and Professional Expertise
+
+Expertise and experience in programming in one or more of these languages: Python, Java, C++, Matlab, R etc.
+Advanced skill level in solving analytical problems using rigorous and quantitative approaches.
+Advanced skill level in creating and applying new algorithms in AI disciplines such as machine learning, NLP, knowledge induction, and machine reasoning
+Experience in clearly and effectively communicating your research ideas in peer-reviewed technical conferences such as NIPS, ICML, ICLR, IJCAI, AAAI, AISTATS, ACL, CVPR, KDD or similar
+
+
+Preferred Tech and Prof Experience
+
+PhD in machine learning, artificial intelligence, computer science, applied mathematics, signal processing, statistics, physics or related technical fields
+Advanced skill level with standard machine learning techniques and frameworks
+Experience analyzing large scale data from a variety of sources
+Design, validation, and characterization of algorithms and/or systems
+Experience with machine learning tools and frameworks including TensorFlow, PyTorch, Torch, Caffe, and Theano etc. a plus
+Contributions to open source projects
+
+
+EO Statement
+IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.
+
+Preferred Education:
+Doctorate Degree
+Commissionable:
+No
+
+# --------------------------------------------------------------------------------------------------
+Research Engineer
+Vicarious AI
+
+Our goal is to build a system that achieves human-level intelligence in the domains of vision, language and motor control. We are currently focused on visual perception problems such as recognition, segmentation and scene parsing. We are not building neural networks. You can learn more about our strategy here.
+
+As a research engineer at Vicarious you will quickly come up to speed on recent advancements in machine learning, image processing and computer vision. You will apply this knowledge to improve the computational performance and accuracy of learning and inference algorithms used for vision tasks in a large variety of training environments. Working with other members of the team you will be driving a dense Python and C++ codebase that is pushing the state-of-the-art in AI forward.
+
+AS PART OF OUR TEAM, YOU WILL…
+
+Develop and refine demonstrations of new research.
+Optimize and scale implementations of researched algorithms.
+Follow lead of Researchers and assist with development.
+Refine the output of the research department into reusable pieces where appropriate.
+
+DESIRED SKILLS AND EXPERIENCE
+
+Preferred Masters or BS in CS/EE or a related discipline.
+Extensive programming skills, ideally in Python and C, and a track record of translating ideas into prototypes quickly.
+Solid fundamentals in algorithms, math, and probability theory.
+Experience developing and testing ideas in a large scale setting.
+Experience with belief propagation and approximation methods.
+Experience with OpenGL a plus.
+
+DESIRED PERSONAL QUALITIES
+
+Integrity
+Altruism
+Intellectual breadth
+Interest in reviewing literature and implementing ideas in areas outside comfort zone
+Ability to admit when wrong
+Ability to work in a diverse team
+Sense of humor
+
+BENEFITS
+
+Work on the most important problems in the field with a team who will challenge and support you.
+We have flexible hours and a family-friendly culture. Building the first intelligent machines is our life’s work, and we emphasize sustainability over crunch. Our board member and investor Dustin Moskovitz recently wrote an article that captures how we relate to our work.
+Health, dental, and vision insurance, as well as short and long term disability. We pay 100% of employee premiums and 50% of dependent premiums.
+Flexible paid parental leave.
+Healthy, organic breakfast and lunch every day.
+Company wireless plan. Never pay a mobile phone bill again.
+Get to work easily! Our office is 60 seconds from BART and public transportation, and adjacent to a beautiful park. If you use BART to get to work, we subsidize the cost of tickets.
+We have fun workday activities like soccer, volleyball, board games, or journal club.
+Certified personal trainer who will design an exercise program that suits your fitness level and help you meet your goals.
+Executive and one-on-one coaching for everyone. Select between different coaches, depending on what types of skills you want to develop.
+Once a year, we take the entire company (including +1s and kids) on a vacation. Yes, it’s as awesome as it sounds.
+We are standing with Fauna and other startups in offering a new policy for civic engagement.
+
+# --------------------------------------------------------------------------------------------------
+AI Scientist
+Dishcraft Robotics
+611 Taylor Way Unit 1, San Carlos, CA 94070, US
+
+At Dishcraft Robotics, our mission is to revolutionize the commercial kitchen industry with robotics. We are a venture-backed Bay Area startup that is innovating with robotics, computer vision, machine learning, and mechanical design. Come join our talented team of technologists and business people as we create advanced machines in an industry that touches everyone.
+
+First and foremost, we value people, intellectual engagement, and transparent communication. We are looking for a highly motivated and intellectually curious AI Scientist to join the Dishcraft Robotics Artificial Intelligence team.
+
+About The Role
+
+Research, prototype, and build solutions to robotic perception and manipulation problems in complex, dynamic environments
+Prototype and develop specifications for data collection and annotation
+Collaborate closely with software engineers to deploy models to production
+Analyze experimental data and communicate the findings cross-functionally
+Constantly stay up to date with the latest research advances and current best practices
+
+About You
+
+MS/PhD in computer vision or machine learning, or equivalent experience
+Solid understanding of the fundamentals and best practices of machine learning and deep learning
+Proficiency in Python and C++
+Experience in predictive modeling, machine learning, deep learning, and optimization algorithms
+Experience with deep learning frameworks like TensorFlow or PyTorch
+Experience with data science tools like numpy, scipy, matplotlib, scikit-learn, pandas
+Understanding of commercial software development best practices like version control, unit testing, and documentation
+Experience with computer vision libraries like OpenCV or PCL is a plus
+Experience with 3D geometric computer vision is a plus
+Experience with sensor fusion is a plus
+Experience with GPU programming is a plus
+
+
+Dishcraft Robotics is an Equal Opportunity Employer. We do not discriminate on the basis of race, color, religion, national origin, pregnancy status, sex, age, marital status, disability, sexual orientation, gender identity, or any other characteristics protected by law.
+
+# --------------------------------------------------------------------------------------------------
+Researcher
+Microsoft
+Location Montréal, CA
+
+Our goal is to achieve Artificial General Intelligence by teaching machines to think, reason, and communicate. We’re an early leader in using deep learning to solve language-understanding problems and in training machines to model the decision-making capabilities of the human brain. Based in Montréal, a global hub for AI, our team brings together experts in various machine-learning domains: deep learning, reinforcement learning, NLP, machine reading, computational linguistics and more. As a member of the Machine Comprehension group, you will work on problems including machine reading, question answering, reasoning and memory mechanisms, language modeling, and information gathering. We build deep neural networks trained through techniques from supervised, unsupervised, and reinforcement learning. This is a unique opportunity to change the way machines learn to understand and reason upon unstructured text. Your work has the potential to power products and services that may be used by millions of users.
+
+Responsibilities
+
+Develop cutting edge research in Machine Reading, Question Answering, and Natural Language Understanding
+Conceive and execute ambitious research projects that will advance the capabilities of Machine Reading systems
+Suggest and engage in team collaborations and work towards long-term research goals, while identifying intermediate milestones
+Work with external collaborators and maintain relationships with relevant research labs
+Report and present research findings within the Microsoft Research teams.
+
+
+Qualifications
+
+Masters or Ph.D. in machine learning, deep learning, reinforcement learning, natural language processing, or related technical field
+Experience or strong interest in natural language understanding, natural language generation, or related technical field
+A track record of published papers demonstrating your experience in your research field
+Proven experience working with software teams and systems to implement applications from your Research with strong implementation skills, esp. for RNNs
+Hands on experience with Python -Hands on experience with at least one of the following tools: cntk, Theano, Tensorflow, or similar
+
+Considering a Career with Microsoft Canada?
+
+At Microsoft Canada, people are the source of our energy. The people at Microsoft Canada are creative, from all types of backgrounds, bringing passion and new ideas, meeting challenges, and realizing their potential. Our benefits and resources are designed to keep our most important asset - our employees - healthy, happy and equipped with the resources they need to be successful and realize their full potential. Microsoft Canada provides a flexible work environment, with career advancement potential and most importantly, the opportunity to make a difference. As a Microsoft employee you have the opportunity to participate in the following programs: Stock Awards & Employee Stock Purchase Plan, Registered Retirement Savings Plan, Employee Software Purchase Program, Fitness Membership & Subsidy, I Volunteer (5 Paid Volunteer Days), Employee Assistance Program Microsoft is an equal opportunity employer and supports workforce diversity. Microsoft is committed to accommodating applicant’s with disabilities up to the point of undue hardship during the recruitment, assessment and selection process. Please notify Microsoft if you require accommodation in respect of the materials or procedures used at any time during this process. If you require accommodation Microsoft will work with you to determine how to meet your need.
+
+# --------------------------------------------------------------------------------------------------
+Date: 06/09/18
+# --------------------------------------------------------------------------------------------------
+Full-time opportunities for students & recent graduates: Software Engineering & Program Management
+Microsoft
+Other, Other, United States
+
+Software engineers at Microsoft are passionate about building technologies that make the world a better place. At Microsoft, you will collaborate with others to solve problems and build some of the world's most advanced services and devices. Your efforts on the design, development, and testing of next-generation applications will have an impact on millions of people.
+
+
+
+Do you want to work on a meaningful and impactful project and make a difference?
+
+Are you willing to learn from others and open to new ideas?
+
+Do you want to support others to succeed and operate in a highly-collaborative and global environment?
+
+If this sounds like you, Microsoft would like to invite you to come join us as you are, where you can find more than just a job.
+
+Read on to learn more about opportunities and apply online!
+
+
+
+Applications to these opportunities are considered for all available Software Engineering roles including the ones described below, depending on education level and/or location. To be considered for a position for students and recent graduates, you need to be enrolled full-time as a student within 12 months from graduation majoring in an applicable field or graduated within last 12 months majoring in an applicable field.
+
+
+
+Program Manager
+
+Program Managers (PMs) are the in-house advocates for millions of people worldwide who predict and research how software is used and work closely with Software Engineers (SWEs) to ensure our products exceed people's expectations.
+
+
+
+Software Engineer
+
+Software engineers (SWEs) collaborate with a committed team to design, develop and test the next generation of technology solutions for millions of people.
+
+Responsibilities
+
+
+Program Manager
+
+Program Managers are typically responsible for specific features in our technology solutions for the full product cycle. You work on the initial feature planning and design, manage the specifications and timeline of their development, and monitor their on-going operation to better understand customer experiences. You work collaboratively with team mates to ensure our products exceed customer expectations. You communicate throughout the process to understand progress towards delivery, technical challenges, and to provide clarity on customer needs using a data driven approach. You will be expected to demonstrate an ability to learn and adopt relevant new technologies, tools, methods and processes to leverage in your solutions. As a Program Manager, you are dedicated to building software to empower every person and organization on the planet to achieve more.
+
+
+
+Software engineer
+
+Software engineers (SWEs) work with teammates to solve problems and build innovative software solutions. You are passionate about customers and product quality, and you provide technical guidance to Program Managers as they consider user needs and product requirements.  You will also be expected to demonstrate an ability to learn and adopt relevant new technologies, tools, methods and processes to leverage in your solutions.
+
+As a SWE, you are dedicated to building software to empower every person and organization on the planet to achieve more
+
+
+Qualifications
+Program manager:
+
+A bachelor's, master's or PhD degree in engineering, computer science or related field (12 months of graduation or graduated within the last 12 months).
+A year or two of experience programming in C++, Java or other computer programming languages preferred.
+Some experience building software beyond the classroom environment like an internship or related experience for customers strongly preferred
+Ability to demonstrate understanding of computer science fundamentals that affect code implementation and customer experience
+Demonstrated ability in feature definition, design and feasibility
+Familiarity with managing complex project schedules and nurturing cross-group collaboration.
+Demonstrated ability in estimating development time and relevant challenges to delivery.
+Strong written and verbal communication skills and a desire to create an open and collaborative team culture
+Demonstrated skills in negotiation and conflict management.
+
+
+Software Engineer:
+
+
+
+A bachelor's, master's, or PhD degree in engineering, computer science or related field 12 months of graduation or graduated within the last 12 months.
+A year or two of experience programming in C++, Java or other computer programming languages preferred.
+Ability to demonstrate understanding of algorithms, data structures and other systems architecture factors that affect code quality, performance and customer experience
+Some experience building software outside of the classroom environment like an internship, hackathon, research project or related experience preferred
+Demonstrated skill in time management and completing software projects in a cooperative team environment
+
+# --------------------------------------------------------------------------------------------------
+Machine learning engineer
+Harnham
+Barcelona
+
+€35.000-€45.000
+
+
+THE COMPANY
+
+This is a fantastic opportunity to join a fast growing leader supplier business. With a strong global presence and offices across the world they're now building a solid Data team in their Barcelona offices.
+
+THE ROLE
+
+You will be investigating, proposing and implementing data pipelines and machine learning algorithms using Python - the focus here is on production and engineering.
+
+YOUR PROFILE
+
+As a Machine Learning Engineer you will need:
+
+-A proven background in production-level Machine Learning - experience in image processing.
+
+-Strong programming experience in Python and Spark.
+
+-An understanding of the importance of self-testing software.
+
+-A familiarity with engineering best-practice.
+
+-A Ph.D. or MSc in Computer Science, Mathematics, Artificial Intelligence, Machine Learning or a related field.
+
+-Strong communication skills.
+
+BENEFITS
+
+- Fantastic company culture and benefits
+
+- Flexible working hours, training and development opportunities
+
+- Great location: Offices in central Barcelona
+
+# --------------------------------------------------------------------------------------------------
+Software Developer Image Processing, Automated Driving
+Software Developer, Automated driving
+Software Developer, Cognitive Solutions
+Software Developer, Autonomous Systems / Robotics
+Bosch Urban Software Lab
+Barcelona, Barcelona provincia
+
+Bosch Urban SW Lab
+
+BOSCH is about to build up a world leading SW development lab in France and Spain and we want you to be part of it!
+
+Team & talent
+
+Our lab has one focus: world class talent! We are building up an international team comprising of leading talents in their field and will promote every team member extensively.
+
+Benefits
+
+We are offering a great spirit, outstanding compensation packages, dream locations & offices and a great degree of freedom.
+
+Technologies & competences
+
+Our team will exclusively work on high tech topics. We will start recruiting in the areas like autonomous driving, AI, machine learning, data mining and connected solutions.
+
+Bosch & Products
+
+A world leading engineering company with > 400.000 colleagues, products in areas like mobility solutions, consumer goods, industrial technology or energy and building technology with a revenue of > 90B $.
+
+For more info on our company and our products please check out: bosch.com
+
+Beauty of the beginning
+
+We take great care to recruit the right people for our team which is why we are currently starting our “pre-recruiting” phase in which we will identify top talent and create early connections. Talk to us in the primary phase and shape how the lab and your job will look like. Please note that the actual hiring phase will start approximately in 2-3 months.
+
+Your contribution to something big
+
+We have openings in the Junior, Senior and Chief Expert / Director Level.
+
+Act as a key expert in your field for the entire Bosch community as well as for our internal and external customers.
+
+You will become part of a team working on key Bosch innovation projects throughout Europe. Depending on your level your responsibilities may vary but generally comprise of the following:
+
+- Travel time: approx. 20%
+- Close networking and cooperation with science and academic community
+
+Software Developer Image Processing, Automated Driving
+
+- Development of cutting edge image processing algorithms in C/C++
+- Coordination concepts with the respective departments and customers
+- Documentation, testing, commissioning and maintenance of prototypes and products with our customers
+- Networking with company-wide specialist teams and university partners in the field of image processing
+
+Software Developer, Automated driving
+
+- Independent design and implementation of software solutions and components of the autonomous driving platform
+- Development and optimization of algorithms for object recognition, classification and interpretation of traffic situations
+
+Software Developer, Cognitive Solutions
+
+- Development in the subject area of Machine Learning, Artificial Intelligence, Artificial Cognition and Decision Systems
+- Performing problem or requirement analysis and designing of cognitive software architectures and functions
+- Review, integration, testing and quality assurance of developed software architectures
+- Problem-related evaluation of nature-analogous methods and their implementation
+
+Software Developer, Autonomous Systems / Robotics
+
+- Coordination and processing of complex system and software development projects with application developers
+- Development of new concepts and algorithms, embedded systems, and integration of algorithms in a distributed software architecture
+- Mentoring and technical guidance of the project members
+
+Senior level and Chief Expert Level:
+
+- Lead complex development projects with teams of 3 to 20 people
+- Opportunity to take over as the technical lead for a competence cluster
+- Team management
+
+Location benefits
+
+- Flexible working hours, mobile working possibilities
+- Engineering orientation + onboarding
+- Healthy snacks + beverages 24/7
+- Relocation assistance + reimbursement
+- Casual dress code + relaxed work environment
+- Culturally diverse, progressive atmosphere, colleagues from all over the world
+- Free access to top class sport facilities
+- Employee discounts on various products
+- Room for creativity
+- For full overview of our benefits please check out: facebook.com/BoschUrbanSoftwareLab
+
+What distinguishes you
+
+- A high degree of passion and determination
+- Highly analytical and structured working approach
+- A creative curiosity, team orientation, enthusiasm, and personal vision
+- Fluent in English
+
+Software Developer Image Processing, Automated Driving
+
+- University degree in Computer Science, Mathematics, or comparable second degree in a another IT field
+- Solid programming skills in an object-oriented language such as C ++
+- Experience with at least one image processing library (OpenCV, Matlab Image Processing Toolbox, ImageJ, etc.)
+- Desirable skills: Matlab, nVidia Cuda and / or PCL
+- First or extended professional experience in the field of image processing, environment detection, camera systems or driver assistance systems
+- Knowledge in 2D / 3D pattern and object recognition and / or object classification
+
+Software Developer, Automated driving
+
+- University degree in Informatics, Electronics, Mathematics, Physics or comparable
+- Preferably Ph.D. or second degree in a another engineering field
+- Project experience in object-oriented solution development
+- Profound knowledge in the programming languages Java and C/C ++/Python
+- Knowledge of real-time operating systems, such as Embedded Linux and ROS
+- Experiences with robotics, sensors or video-based systems
+- Previous experience in the automotive industry is an advantage
+
+Software Developer, Cognitive Solutions
+
+- University degree in Informatics, Electronics, Mathematics, Physics or comparable
+- Preferably Ph.D. or second degree in a another engineering field
+- Project experience in object-oriented solution development
+- Profound knowledge in the programming languages Java and C ++
+- Experience with real-time / embedded systems or agent systems
+- Specific knowledge of natural analogue methods and their software implementation such as production control systems, neural networks, fuzzy logic, evolutionary algorithms, etc.
+- Experiences in the field of Big Data, Internet of Things, Data Analytics, Machine Learning
+
+Software Developer, Autonomous Systems / Robotics
+
+- University degree in Informatics, Electronics, Mathematics, Physics or comparable
+- Preferably Ph.D. or second degree in a another engineering field
+- Project experience in object-oriented solution development
+- Profound knowledge in the programming languages Java and C ++
+- Knowledge of real-time operating systems, such as Embedded Linux and ROS
+- Interface knowledge regarding hardware, bus systems etc.
+- Experiences in the field of Big Data, Internet of Things, Data Analytics, Machine Learning
+
+# --------------------------------------------------------------------------------------------------
+Date: 17/09/18
+# --------------------------------------------------------------------------------------------------
+Software Engineer, Machine Learning (Robotics), X
+X
+Mountain View, CA, United States
+
+We believe there are many problems in the world in which robotics could play a significant role in making it easier, faster and safer for people to get things done. We’re looking for roboticists, designers, hardware and software engineers to help us explore these possibilities, develop breakthrough technologies, and build new products that could help millions of people.
+
+As an experienced Machine Learning Software Engineer, you’ll work on addressing some hard unsolved problems combining robotics, machine learning and robot simulation. You are excited about leveraging simulation for robot learning and transferring the controllers that are learned in simulations to real robots. In a team of software engineers, roboticists and machine learning researchers, you are expected to implement machine learning techniques to solve robot learning and sim-to-real transfer problem.
+
+X is a moonshot factory where uncomfortably ambitious, potentially world-changing new ideas such as self-driving cars, balloon-powered Internet and smart contact lenses are developed and taken out into the world. X projects have the potential to transform the lives of billions of people and make the world a radically better place. We’re a team of makers, entrepreneurs, engineers and scientists with deep technical expertise who love the challenge of the seemingly impossible. X was formerly known as Google[x].
+
+Responsibilities
+
+Work closely with the rest of the team to propose and implement machine learning algorithms (e.g., domain adaptation, domain randomization) to solve robot learning and sim-to-real transfer problem.
+Run experiments on physical robots and in simulation, and analyze the data to bridge the reality gap between simulated robots and real robots.
+Work on bridging the reality gap between simulated robots and real robots.
+Participate in end to end testing from writing unit, functional, regression and integration tests.
+Collaborate with Product and Engineering teams across geographical locations.
+
+Minimum qualifications:
+
+Bachelor's degree in Computer Science or Robotics, or equivalent practical experience.
+Experience with machine learning algorithm development.
+Experience with one or more machine learning framework (e.g., TensorFlow, PyTorch, Caffe).
+
+Preferred qualifications:
+
+Master's degree or PhD in Computer Science, Robotics or equivalent practical experience.
+Strong machine learning development experience in the field of robotics, simulation.
+Experience with using simulation for robotics or deep learning.
+Experience writing highly optimized and efficient code in Python, C, or C++.
+
+# --------------------------------------------------------------------------------------------------
+Date: 24/09/18
+# --------------------------------------------------------------------------------------------------
+Robotics Engineer - New Grad
+NASA Jet Propulsion Laboratory
+Pasadena, CA, US
+
+# --------------------------------------------------------------------------------------------------
+Deep Learning Engineer*
+HAYS
+Barcelona
+
+# --------------------------------------------------------------------------------------------------
+(Junior) Software Engineer (m/f) - For our new office in Lisbon
+freiheit.com technologies gmbh
+España
+
+# --------------------------------------------------------------------------------------------------
+Machine Learning Engineer
+Toyota Research Institute
+US
+
+# --------------------------------------------------------------------------------------------------
+Machine Learning Engineer
+Landing AI
+Palo Alto, CA
+
+# --------------------------------------------------------------------------------------------------
+Data Scientist and Managing Consultant - Advanced Analytics
+IBM
+
+# --------------------------------------------------------------------------------------------------
+Entry-Level Software Developer
+IBM
+
+# --------------------------------------------------------------------------------------------------
+Software Engineer, Machine Learning
+Google
+Cambridge, MA, United States
+
+# --------------------------------------------------------------------------------------------------
+Software Engineer, University Graduate
+Google
+Cambridge, MA, United States
+
+# --------------------------------------------------------------------------------------------------
+Software Engineer, University Grad
+Facebook
+US
+
+# --------------------------------------------------------------------------------------------------
+Robotics Software Engineer for an Autonomous Vehicle R&D Group in Mountain View, CA
+OSI Engineering, Inc.
+Mountain View, California, United States
+
+# --------------------------------------------------------------------------------------------------
+Robotics Software Engineer - MULTIPLE POSITIONS!
+Anki
+San Francisco, CA
+
+# --------------------------------------------------------------------------------------------------
+Mobile robotics researcher
+Eurecat
+Barcelona
+
+# --------------------------------------------------------------------------------------------------
+Insight Artificial Intelligence Fellows Program
+Insight Fellows Program
+Silicon Valley
+
+# --------------------------------------------------------------------------------------------------
+Date: 07/10/18
+# --------------------------------------------------------------------------------------------------
+Robotics Software Engineer
+Fellow Robots
+Burlingame, California
+
+# --------------------------------------------------------------------------------------------------
+Robotics Software Engineer
+Fox Robotics
+Austin, Texas
