@@ -75,3 +75,5 @@ El camino estuvo lleno de personas que se volvieron muy importantes para mí, y 
 Este texto es entonces una breve recolección de mis aprendizajes a lo largo de ese camino y, con ~~suerte~~ esfuerzo, el comienzo de algo más (😉).
 
 Ahora sólo me resta decir una cosa: **Gracias, Conti**.
+
+`TODO(mrduhart): add Conti picture and translate to English.`
