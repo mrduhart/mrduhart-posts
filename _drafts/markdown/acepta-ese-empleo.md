@@ -1,3 +1,5 @@
+> `TODO(mrduhart): add Conti picture (and more pictures?)`
+
 # ¿Por qué deberías aceptar ese trabajo que no te gusta?
 
 <!-- Intro -->
@@ -124,5 +126,3 @@ Este texto es entonces una breve recolección de mis aprendizajes a lo largo de
 ese camino y, con ~~suerte~~ esfuerzo, el comienzo de algo más (😉).
 
 Ahora solo me resta decir una cosa: **Gracias, Conti**.
-
-`TODO(mrduhart): add Conti picture and translate to English.`
