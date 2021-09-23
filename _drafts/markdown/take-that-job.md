@@ -1,31 +1,24 @@
-> `TODO(mrduhart): Start editing (only copied automatic translation)`
-
-# Why should you take that job you don't like?
+# Why should you take that job that you don't like?
 
 <!-- Intro -->
 
-In 2018 I received a job offer I didn't want to accept. The only one among more
-50 CVs sent and only 10 interviews.
+Back in 2018, I received a job offer I didn't want to accept. It was my only offer after sending more than 50 resumes, which led to just a little more than 10 interviews.
 
-After giving it a lot of thought, I decided to accept it and now I ask myself:
-why should you Why should you accept that job you don't like?
+After thinking a lot about it, I decided to accept the offer and now I ask myself this question: Why should you take that job that you don't like?
 
-These are my seven answers:
+Here are my seven answers:
 
 <!-- Team -->
 
-## 1. Because you will learn that you fail together and win together.
+## 1. Cause you'll learn that we win together and we lose together too
 
-You will learn to be part of a team and to value its diversity.
+You will learn how to be part of a team and how to appreciate its diversity.
 
-You will begin to recognize and embrace the differences between each member and
-You will discover that those differences are what make the team strong. You will
-discover that no matter how out of place you feel, you too are an essential part
-of the team. essential part of the team.
+You will start noticing the differences among team members, and you will accept those. You'll find out that such differences make the team stronger. That it does not matter how out of place you might feel, you too are an essential part of that team.
 
-They don't have to be your best friends, but you'll know the importance of
-moving forward together toward a common goal. together toward a common goal.
-Because you fail together and win together.
+They don't need to be your dearest friends, but you'll learn the importance of moving ahead together towards a common goal. Because we lose together and we win together too.
+
+> `TODO(mrduhart): Continue editing automatic translation after this line.`
 
 <!-- Leadership -->
 
