@@ -58,27 +58,38 @@ of communication is all about accepting that the other person is always right.
 
 It is our duty then to become artists. The artists of communication.
 
-> `TODO(mrduhart): Continue editing automatic translation after this line.`
-
 <!-- Women -->
 
-## Because you will discover that more women are needed in the workplace.
+## 4. Cause you will discover why we need more women in the workplace
 
-You'll begin to recognize them for their value in the work environment and
-everywhere else, and you'll form a more realistic and everywhere, and you will
-form a more realistic image of them. An image far removed from the stereotypes
-the stereotypes many of us have about their roles.
+You will begin to value women for what they bring to the workplace, and
+everywhere. You will form a new image of them for yourself. One that is more
+realistic, far from the stereotypes that many of us have about their roles.
 
-You will find fantastic leaders, with and without the title. Women with
-initiative and vision. Capable of organizing entire teams and solving difficult
-problems.
+You will get to know amazing female leaders, with and without the title.
+Proactive women with a clear vision. Women who are determined but not arbitrary.
+Able to coordinate teams and solve difficult problems.
 
-You'll also find women who take care of others, who are assertive without being
-arbitrary. Often nicer and more empathetic than many of the guys I've come
-across. I've come across.
+And yes, you will also find women who take care of others. Often warmer and more
+empathetic than many of the guys I've met.
 
-You'll learn that this is why we need more women in the workplace. Then maybe
-we'll we'll learn something from them.
+You will realize this is why we need more women in the workplace. Then we could
+all learn from their exemplary behaviors.
+
+> `TODO(mrduhart): Continue editing automatic translation after this line.`
+
+<!-- Give, don't ask -->
+
+## 5. Because you will learn that success is not deserved. You earn it
+
+You are going to learn that people don't notice your past. They don't care about
+your achievements nor your success stories and, much less, how many important
+dudes you have known in your life. The rest of us can only see what you do now.
+Your actions and words today are what define you tomorrow.
+
+You will discover that being good as a student is not the same as being good at
+your career. No matter how many gold medals and diplomas you have hanged, no
+just ask. You have to give first.
 
 <!-- Give, don't ask -->
 
