@@ -80,7 +80,18 @@ all learn from their exemplary behaviors.
 
 <!-- Give, don't ask -->
 
-## 5. Because you will learn that success is not deserved. You earn it
+## 5. Cause you will learn that you don't deserve success. You earn it
+
+You are going to find out that people don't care about your past. The won't care about your old achievements. Neither will they care about your old success stories. Much less, how many VIPs you've met before.
+
+The rest of us can only see what you're doing now. Your actions and your words today define you tomorrow.
+
+You will also find out that being a good student does not immediately make you good at your career. No matter how many gold medals are hanging on your neck, it ain't enough to ask.
+
+Give, don't ask.
+
+Sin importar cuántas medallas de oro y diplomas te has colgado, no
+basta con pedir. Primero tienes que dar.
 
 You are going to learn that people don't notice your past. They don't care about
 your achievements nor your success stories and, much less, how many important
