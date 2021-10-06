@@ -1,3 +1,5 @@
+> `TODO(mrduhart): Fix file formatting`
+
 # Why should you take that job that you don't like?
 
 <!-- Intro -->
@@ -90,7 +92,7 @@ You must give; don't ask.
 
 <!-- Friends -->
 
-## Cause you're gonna meet a bunch of new people, who will become close friends to you
+## 6. Cause you're gonna meet a bunch of new people, who will become close friends to you
 
 You will make new friends. Lots of them. Passing-by friends, coffee & taco friends and friends for life.
 
