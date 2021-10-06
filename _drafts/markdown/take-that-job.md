@@ -2,7 +2,7 @@
 
 <!-- Intro -->
 
-Back in 2018, I received a job offer I didn't want to accept. It was my only
+Back in 2018, I received a job offer that I didn't want to accept. It was my only
 offer after sending more than 50 resumes, which led to just a little more than
 10 interviews.
 
@@ -76,60 +76,29 @@ empathetic than many of the guys I've met.
 You will realize this is why we need more women in the workplace. Then we could
 all learn from their exemplary behaviors.
 
-> `TODO(mrduhart): Continue editing automatic translation after this line.`
-
 <!-- Give, don't ask -->
 
 ## 5. Cause you will learn that you don't deserve success. You earn it
 
-You are going to find out that people don't care about your past. The won't care about your old achievements. Neither will they care about your old success stories. Much less, how many VIPs you've met before.
+You are going to find out that people won't care about your past achievements. Neither will they care about your old success stories. Much less how many super-awesome *Leute* you've met before.
 
-The rest of us can only see what you're doing now. Your actions and your words today define you tomorrow.
+The rest of us can only see what you're doing now. Your actions and your words today define you for tomorrow.
 
-You will also find out that being a good student does not immediately make you good at your career. No matter how many gold medals are hanging on your neck, it ain't enough to ask.
+You will also find out that being a good student will not instantaneously make you good at your career. It does not matter how many gold medals are hanging on your neck, it ain't ever gonna be enough to just ask first.
 
-Give, don't ask.
-
-Sin importar cuántas medallas de oro y diplomas te has colgado, no
-basta con pedir. Primero tienes que dar.
-
-You are going to learn that people don't notice your past. They don't care about
-your achievements nor your success stories and, much less, how many important
-dudes you have known in your life. The rest of us can only see what you do now.
-Your actions and words today are what define you tomorrow.
-
-You will discover that being good as a student is not the same as being good at
-your career. No matter how many gold medals and diplomas you have hanged, no
-just ask. You have to give first.
-
-<!-- Give, don't ask -->
-
-## Because you'll learn that success isn't earned. You earn it.
-
-You're going to learn that people don't look at your past. They don't care about
-your accomplishments your success stories, let alone how many great people
-you've met in your life. you've met in your life. The rest of us can only see
-what you do now. Your actions and words today are what define you tomorrow.
-
-You will discover that being good at being a student is not the same as being
-good at your career. career. No matter how many gold medals and diplomas you
-have earned, it is not enough to ask. enough to ask. You have to give first.
+You must give; don't ask.
 
 <!-- Friends -->
 
-## Because you will meet many new people. People who will become lifelong friends.
+## Cause you're gonna meet a bunch of new people, who will become close friends to you
 
-You will make friends. Lots of them. Passing friends, hallway friends and
-friends for life. friends.
+You will make new friends. Lots of them. Passing-by friends, coffee & taco friends and friends for life.
 
-If you are lucky, you will travel. You will travel to unknown and distant
-places, and you will have and you will live unforgettable experiences with
-extraordinary people.
+If you are lucky enough, you will travel. To unknown and distant places, and you will live unforgettable experiences along extraordinary people.
 
-After all, you never know when one of them will help you move to a new house or
-go on a or will go on a European tour with you. One day, you might even find
-love. you might even find love. Translated with www.DeepL.com/Translator (free
-version)
+After all, you could never know which of them is going to help you move to a new house or join you on a backpacking adventure. Someday maybe, you could even find love all the better.
+
+> `TODO(mrduhart): Continue editing automatic translation after this line.`
 
 <!-- Finish -->
 
