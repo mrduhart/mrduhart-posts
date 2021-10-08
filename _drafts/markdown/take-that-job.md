@@ -1,4 +1,5 @@
 > `TODO(mrduhart): Fix file formatting`
+
 > `TODO(mrduhart): Check with Grammarly`
 
 # Why should you take that job that you don't like?
@@ -100,8 +101,6 @@ You will make new friends. Lots of them. Passing-by friends, coffee & taco frien
 If you are lucky enough, you will travel. To unknown and distant places, and you will live unforgettable experiences along extraordinary people.
 
 After all, you could never know which of them is going to help you move to a new house or join you on a backpacking adventure. Someday maybe, you could even find love all the better.
-
-> `TODO(mrduhart): Continue editing automatic translation after this line.`
 
 <!-- Punchline -->
 
