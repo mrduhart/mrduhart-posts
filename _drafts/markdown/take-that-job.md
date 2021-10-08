@@ -1,4 +1,5 @@
 > `TODO(mrduhart): Fix file formatting`
+> `TODO(mrduhart): Check with Grammarly`
 
 # Why should you take that job that you don't like?
 
@@ -102,36 +103,18 @@ After all, you could never know which of them is going to help you move to a new
 
 > `TODO(mrduhart): Continue editing automatic translation after this line.`
 
-<!-- Finish -->
+<!-- Punchline -->
 
-## 7. Because it can result in much more than you expect.
+## 7. Cause it may turn out to be much more than you are expecting
 
-3 years ago I wanted to say no to my only job offer after months of job hunting.
-looking for a job. The offer from
-[Continental](https://www.continental-jobs.com/) was certainly attractive. I
-would be moving to a new city, with very good pay and benefits, and in a very
-seductive benefits, and in a very seductive _research and development_ position.
+Back 3 years ago, I wanted to say no to the only job offer I had received after months of job hunting. Sure, the offer from [Continental](https://www.continental-jobs.com/) was indeed attractive. I would be moving to a new city to work in a very seductive R&D position, with great pay and benefits.
 
-However, by the time I received the news, I was already in the middle of other
-interviews. These were very interesting to me at the time, so I was afraid of
-rushing into a I was afraid to rush into giving a yes. I was afraid to stand
-there, all the time, wishing I was somewhere else. wishing I was somewhere else.
+However, by the time I received the news of the offer, I was already going through a couple more hiring processes. These were very interesting to me at the time and so I was afraid of rushing into a _Yes_. I was afraid of coming in to the office everyday, wishing all the time that I were somewhere else.
 
-And I'm not going to lie to you, because in fact I was. After I accepted, I kept
-wishing to be somewhere else for quite a while. It is to this day that I look
-back at the time I spent there and I can say that I did not I can say that I
-don't regret my decision.
+And I won't lie to you, because it was in fact like that. For a while. It is only to this day that I can look back at the time spent there and say I don't regret my decision.
 
-The road was full of people who became very important to me, and of experiences
-and opportunities that transformed me. experiences and opportunities that
-transformed me in countless dimensions.
+The road was full of people who became really important to me. It was also full of opportunities that transformed who I am in countless dimensions.
 
-This text is thus a brief collection of my learnings along that road and, with
-that path and, with ~~lucky~~ effort, the beginning of something more (😉).
+This text is thus a brief collection of my learnings along that road and, with some ~~luck~~ effort, the beginning of something more 😉.
 
-Now there is only one thing left for me to say: **Thank you, Conti**.
-
-<!-- ####################################################################### -->
-
-This text is then a brief discussion of my learnings in that journey and,
-hopefully, the beginning of something more. ;)
+Now there is only one thing left for me to say: **Thank you, Conti.**
