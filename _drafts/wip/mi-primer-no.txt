@@ -1,21 +1,33 @@
-# Mi primer no
+# El primer no - La dura realidad de que no te den el trabajo
 
 > TODO: Finish writing draft.
 
+> Make it all about rejection (and what it teaches you)
+
+Lo que vamos a hacer con este post es contar la historia de lo que se siente recibir un primer no de trabajo, desde la perspectiva de un estudiante que está acostumbrado al éxito académico y no conoce cómo la escuela es diferente de la vida aún.
+
+Así que comenzaré narrando mi historia luego de terminar la maestría y cómo continué haciendo cosas de la escueela para manetenerme distraído de la dura realidad que se me venía frente a mí: la realidad de salir a la vida.
+
+Un formato interesante para explorar sería incluir blockquotes cada tantos párrafos para resaltar la lección aprendida en ese punto.
+
+Así, este post sería algo más breve y luego lo continuaría con el primer sí. Ahí incluiré aprendizajes sobre cómo contactar a las empresas, dónde encontrar vacantes, qué decir y qué hacer, y también qué no. Y cómo mantener un paso constante y sobrellevar la enorme oleada de negativas.
+
+Seh, me gustan esas ideas.
+
+También explorar las... Dejemos que las lecciones se descubran por sí solas.
 
 
-1. Narrar primera búsqueda de trabajo MUUUUY BREVE (follow up post with advice on job searching) - Separar en 2 partes.
-    - Graduación y conferencia Puebla
-    - Elecciones AMLO
-    - Primer rechazo
-    - Siguientes búsquedas
-    - Primeras entrevistas
-    - Proceso largo Conti: entrevista Mateusz
-    - Loco por Barcelona
-    - Google aparece en mi radar (luego de 6 intentos)
-    - La cagué en FB, la cagué en OpenAI, la cagué en DL, la medio cagué en Bosch (rescatada correo)
-    - Oferta Conti
-    - Resumen lecciones
+- Graduación y conferencia Puebla
+- Elecciones AMLO
+- Primer rechazo
+- Siguientes búsquedas
+- Primeras entrevistas
+- Proceso largo Conti: entrevista Mateusz
+- Loco por Barcelona
+- Google aparece en mi radar (luego de 6 intentos)
+- La cagué en FB, la cagué en OpenAI, la cagué en DL, la medio cagué en Bosch (rescatada correo)
+- Oferta Conti
+- Resumen lecciones
 
 2. La difícil decisión
     - Proceso centro investigación Bcn
