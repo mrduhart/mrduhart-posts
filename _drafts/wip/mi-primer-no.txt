@@ -16,6 +16,37 @@ Seh, me gustan esas ideas.
 
 También explorar las... Dejemos que las lecciones se descubran por sí solas.
 
+$ ------------------------------------------------------------------------------
+
+Era un 3 de julio, poco después de elecciones cuando recibí mi primer no. Me refiero a que por primera vez en mi vida me habían rechazado de algo en lo que soy bueno.
+
+Recuerdo la fecha bastante bien pues un día antes habían sido las elecciones en México. El país entero estaba preocupado ese lunes por conocer quién sería nuestro nuevo presidente. Divididos entre los que apoyaban a diferentes candidatos, como es de esperarse.
+
+Yo, mientras tanto, solamente tenía cabeza para una cosa: conseguir un empleo. Llámalo egoísta si quieres, pero no podía ser de ninguna otra manera.
+
+Para el país, su futuro a largo plazo dependía de quién se sentaría en la silla presidencial. Para mí, mi futuro inmediato dependía de salir de casa de mis padres y hacerme responsable de mi propia vida.
+
+Semanas antes hacía todo mi esfuerzo por evitarlo, por supuesto. Era fácil en ese momento tomar como pretexto los pendientes de la universidad para seguir ignorando la realidad: ya no soy estudiante. Toca entrarle a los guamazos.
+
+Los últimos toques de la tesis y las diapositivas para la conferencia servían muy bien de pretexto para continuar ignorando la realidad de que ya no era un estudiante. Tocaba entrarle a los guamazos de la vida adulta.
+
+Pero bueno, la fecha llegó y no tenía ya más pendientes universitarios para prolongar mi agonía. Así que comencé a buscar. Lo primero que hice fue revisar aquellas vacantes que había visto de reojo meses atrás, aún sumergido en entre capítulos de tesis y código.
+
+Una, mi trabajo soñado: Especialista en Visión Computacional para una startup de robótica. La otra, una sorpresa: Ingeniero de Machine Learning en ADAS para una... ¿Llantera?
+
+En fin, igual apliqué a las dos que el título me venía increíblemente ad hoc con mis intereses y credenciales.
+
+El proceso fue relativamente sencillo para la vacante de visión computacional. LLenar un formulario con tus datos personales, enviar tu CV y una carta de presentación. Y por último, click en el botón de Enviar.
+
+Ya saben, la fórmula de siempre.
+
+Por otra parte, aplicar a la vacante con la llantera me llevó al menos un par de horas. No solamente tuve que reescribir mi CV entero en su sistema de solicitudes, sino que también me hicieron pasar por varias pruebas en línea. Acertijos matemáticos y de lógico, idénticos a esas preguntas de completar el siguiente patrón en la seria como los que nos hacían en la escuela.
+
+Terminé las pruebas y de nuevo, click en env...
+
+
+$ ------------------------------------------------------------------------------
+
 
 - Graduación y conferencia Puebla
 - Elecciones AMLO
